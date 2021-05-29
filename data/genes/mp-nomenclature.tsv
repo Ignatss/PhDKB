@@ -1,0 +1,892 @@
+gene_symbol	full_name	synonym	product	description	GeneID/Location	reference	PMID	DOI	status
+Mp1R-MYB1	Mp1R-MYB1		transcription factor, MYB		Mapoly0004s0169.1; Mp3g15030.1				Public
+Mp1R-MYB11	Mp1R-MYB11		transcription factor, MYB		Mapoly0042s0058.1; Mp2g14310.1				Public
+Mp1R-MYB12	Mp1R-MYB12		transcription factor, MYB		Mapoly0043s0095.1; Mp1g07040.1				Public
+Mp1R-MYB13	Mp1R-MYB13		transcription factor, MYB		Mapoly0045s0043.1; Mp6g20210.1				Public
+Mp1R-MYB14	Mp1R-MYB14		transcription factor, MYB		Mapoly0075s0051.1; Mp2g02900.1				Public
+Mp1R-MYB15	Mp1R-MYB15		transcription factor, MYB		Mapoly0079s0052.1; Mp8g15610.1				Public
+Mp1R-MYB16	Mp1R-MYB16		transcription factor, MYB		Mapoly0084s0085.1; Mp5g18370.1				Public
+Mp1R-MYB17	Mp1R-MYB17		transcription factor, MYB		Mapoly0090s0091.1; Mp4g21300.1				Public
+Mp1R-MYB18	Mp1R-MYB18		transcription factor, MYB		Mapoly0091s0012.1; Mp6g21430.1				Public
+Mp1R-MYB19	Mp1R-MYB19		transcription factor, MYB		Mapoly0092s0004.1; Mp5g13040.1				Public
+Mp1R-MYB2	Mp1R-MYB2		transcription factor, MYB		Mapoly0007s0033.1; Mp3g00360.1				Public
+Mp1R-MYB20	Mp1R-MYB20		transcription factor, MYB		Mapoly0162s0017.1; Mp4g00040.1				Public
+Mp1R-MYB21	Mp1R-MYB21		transcription factor, MYB	X-linked	Mapoly0250s0002.1				Public
+Mp1R-MYB22	Mp1R-MYB22		transcription factor, MYB		Mapoly0811s0001.1; Mp1g25720.1				Public
+Mp1R-MYB3	Mp1R-MYB3		transcription factor, MYB		Mapoly0008s0016.1; Mp8g12000.1				Public
+Mp1R-MYB4	Mp1R-MYB4		transcription factor, MYB		Mapoly0009s0010.1; Mp7g13240.1				Public
+Mp1R-MYB5	Mp1R-MYB5		transcription factor, MYB		Mapoly0013s0145.1; Mp8g06450.1				Public
+Mp1R-MYB6	Mp1R-MYB6		transcription factor, MYB		Mapoly0014s0193.1; Mp1g10330.1				Public
+Mp1R-MYB7	Mp1R-MYB7		transcription factor, MYB		Mapoly0020s0013.1; Mp4g22430.1				Public
+Mp1R-MYB8	Mp1R-MYB8		transcription factor, MYB		Mapoly0022s0028.1; Mp3g05000.1				Public
+Mp1R-MYB9	Mp1R-MYB9		transcription factor, MYB		Mapoly0023s0090.1; Mp2g11220.1				Public
+Mp3R-MYB1	Mp3R-MYB1		transcription factor, MYB		Mapoly0036s0107.1; Mp1g08640.1				Public
+Mp3R-MYB2	Mp3R-MYB2		transcription factor, MYB		Mapoly0058s0005.1; Mp5g20280.1				Public
+Mp3R-MYB3	Mp3R-MYB3		transcription factor, MYB		Mapoly0132s0029.1; Mp4g09860.1				Public
+Mp3R-MYB4	Mp3R-MYB4		transcription factor, MYB		Mapoly0132s0031.1; Mp4g09880.1				Public
+Mp3R-MYB5	Mp3R-MYB5		transcription factor, MYB		Mapoly0150s0001.1; Mp4g04750.1				Public
+Mp3R-MYB6	Mp3R-MYB6		transcription factor, MYB		Mapoly0166s0022.1; Mp5g22280.1				Public
+Mp3R-MYB7	Mp3R-MYB7		transcription factor, MYB	X-linked	Mapoly0210s0005.1				Public
+Mp3R-MYB8	Mp3R-MYB8		transcription factor, MYB	X-linked	Mapoly0240s0002.1				Public
+Mp3R-MYB9	Mp3R-MYB9		transcription factor, MYB		Mapoly0330s0001.1; Mp4g04760.1				Public
+Mp4R-MYB1	Mp4R-MYB1		transcription factor, MYB		Mapoly0061s0069.1; Mp1g24520.1				Public
+MpAAP1	AMINO ACID PERMEASE 1		amino acid transporter	Proton-coupled amino acid symporter	Mapoly0047s0067.1; Mp6g14130.1				Public
+MpAAP2	AMINO ACID PERMEASE 2		amino acid transporter	Proton-coupled amino acid symporter	Mapoly0130s0012.1; Mp2g02040.1				Public
+MpAAP3	AMINO ACID PERMEASE 3		amino acid transporter	Proton-coupled amino acid symporter	Mapoly0170s0014.1; Mp6g16630.1				Public
+MpAAP4	AMINO ACID PERMEASE 4		amino acid transporter	proton-coupled amino acid symporter	Mapoly0134s0048.1; Mpzg00300.1				Public
+MpAAP5	AMINO ACID PERMEASE 5		amino acid transporter	proton-coupled amino acid symporter	Mapoly0004s0095.1; Mp3g15770.1				Public
+MpABA1	MpABA1		zeaxanthin epoxidase		Mapoly0028s0084.1; Mp2g00670.1				Public
+MpABA4	MpABA4		neoxanthin synthase		Mapoly0134s0007.1; Mp5g19490.1				Public
+MpABCB1	ATP-BINDING CASSETTE B 1		Auxin transport	Genome paper MpABCB1: Mapoly0075s0053 MpABCB2: Mapoly0075s0052 MpABCB3: Mapoly0037s0014 MpABCB4: Mapoly0182s0009 MpABCB5: Mapoly0115s0036	Mapoly0075s0053; Mp2g02920				Public
+MpABCB2	ATP-BINDING CASSETTE B 2		Auxin transport	Genome paper MpABCB1: Mapoly0075s0053 MpABCB2: Mapoly0075s0052 MpABCB3: Mapoly0037s0014 MpABCB4: Mapoly0182s0009 MpABCB5: Mapoly0115s0036	Mapoly0075s0052; Mp2g02910				Public
+MpABCB3	ATP-BINDING CASSETTE B 3		Auxin transport	Genome paper MpABCB1: Mapoly0075s0053 MpABCB2: Mapoly0075s0052 MpABCB3: Mapoly0037s0014 MpABCB4: Mapoly0182s0009 MpABCB5: Mapoly0115s0036	Mapoly0037s0014; Mp3g11830				Public
+MpABCB4	ATP-BINDING CASSETTE B 4		Auxin transport	Genome paper MpABCB1: Mapoly0075s0053 MpABCB2: Mapoly0075s0052 MpABCB3: Mapoly0037s0014 MpABCB4: Mapoly0182s0009 MpABCB5: Mapoly0115s0036	Mapoly0182s0009; Mp5g17400				Public
+MpABCB5	ATP-BINDING CASSETTE B 5		Auxin transport	Genome paper MpABCB1: Mapoly0075s0053 MpABCB2: Mapoly0075s0052 MpABCB3: Mapoly0037s0014 MpABCB4: Mapoly0182s0009 MpABCB5: Mapoly0115s0036	Mapoly0115s0036; Mp4g07450				Public
+MpABI1	ABSCISIC ACID INSENSITIVE1		Type 2C protein phosphatase, group A	The MpABI1 cDNA encoded a 568-amino acid protein consisting of the carboxy-terminal protein phosphatase 2C (PP2C) domain and a novel amino-terminal regulatory domain. The MpABI1 transcript was detected in the gametophyte, and its expression level was increased by exogenous ABA treatment in the gemma, whose growth was strongly inhibited by Abscisic acid (ABA).	MapolyY_A0044.1; MpVg00730.1	Tougane et al. Plant Physiol. 2010 152:1529-43. PMID: 20097789	PMID: 20097789		Published
+MpABI1A	MpABI1A		Type 2C protein phosphatase, group A	Same as MpABI1 (GQ504039.1)	MapolyY_A0044.1; MpVg00730.1				Public
+MpABI1B	MpABI1B		Type 2C protein phosphatase, group A		Mapoly0017s0024.1				Public
+MpABI3A	MpABI3A		B3-domain transcription factor abscisic acid-insensitive 3		Mapoly0086s0035.1; Mp5g08310.1				Public
+MpABI5A	MpABI5A		bZIP transcription factor		Mapoly0069s0009.1; Mp2g23600.1				Public
+MpABI5B	MpABI5B		bZIP transcription factor		Mapoly0072s0050.1; Mp2g22820.1				Public
+MpACS	ACETYL-COA SYNTHETASE		Potential acetyl-coA synthetase, possible ortholog to AtACS	Genome paper Mapoly0034s0060	Mapoly0034s0060; Mp6g04560				Public
+MpACS-RELATE	ACETYL-COA SYNTHETASE-RELATED		Potential role in ethylene synthesis	Genome paper Mapoly0001s0058	Mapoly0001s0058; Mp1g17180				Public
+MpAGC1	AGC KINASE 1		AGC VIIIa kinase AGC1						Public
+MpAGC2	AGC KINASE 2		AGC VIIIb kinase AGC2						Public
+MpALFIN1	MpAlfin1		transcription factor, Alfin1-like		Mapoly0029s0079.1; Mp1g01670.1				Public
+MpALFIN2	MpAlfin2		transcription factor, Alfin1-like		Mapoly0065s0031.1; Mp1g23460.1				Public
+MpAMT1.2	AMMONIUM TRANSPORTER 1.2		ammonium transporter	Electrogenic ammonium uptake transporter in the plasma membrane	Mapoly0060s0090; Mp6g08310	Guo et al. Plant Cell Physiol. 59(5):997-1005 (2018); McDonald and Ward, Front Plant Sci 7:352 (2016); Bowman et al., Cell 171(2):287-304.e15		10.1093/pcp/pcy038; 10.3389/fpls.2016.00352; 10.1016/j.cell.2017.09.030	Published
+MpAMT1.3	AMMONIUM TRANSPORTER 1.3		ammonium transporter	Electrogenic ammonium uptake transporter in the plasma membrane	Mapoly0081s0032; Mp8g05310	McDonald and Ward, Front Plant Sci 7:352 (2016); Bowman et al., Cell 171(2):287-304.e15		10.3389/fpls.2016.00352; 10.1016/j.cell.2017.09.030	Published
+MpAMT1.4	AMMONIUM TRANSPORTER 1.4		ammonium transporter	Electrogenic ammonium uptake transporter in the plasma membrane	Mapoly0081s0029; Mp8g05280	McDonald and Ward, Front Plant Sci 7:352 (2016); Bowman et al., Cell 171(2):287-304.e15		10.3389/fpls.2016.00352; 10.1016/j.cell.2017.09.030	Published
+MpAMT1.5	AMMONIUM TRANSPORTER 1.5		ammonium transporter	Electrogenic ammonium uptake transporter in the plasma membrane	Mapoly0081s0031; Mp8g05300	McDonald and Ward, Front Plant Sci 7:352 (2016); Bowman et al., Cell 171(2):287-304.e15 		10.3389/fpls.2016.00352; 10.1016/j.cell.2017.09.030	Published
+MpAMT1.6	AMMONIUM TRANSPORTER 1.6		ammonium transporter		Mapoly0081s0034; Mp8g05330	Bowman et al., Cell 171(2):287-304.e15		10.1016/j.cell.2017.09.030	Published
+MpAMT1.7	AMMONIUM TRANSPORTER 1.7		ammonium transporter		Mapoly0077s0030; Mp8g00390	Bowman et al., Cell 171(2):287-304.e15		10.1016/j.cell.2017.09.030	Published
+MpAMT1.8	AMMONIUM TRANSPORTER 1.8		ammonium transporter		Mapoly0077s0028; Mp8g00380	Bowman et al., Cell 171(2):287-304.e15		10.1016/j.cell.2017.09.030	Published
+MpAMT1.9	AMMONIUM TRANSPORTER 1.9		ammonium transporter		Mapoly0077s0031; Mp8g00420	Bowman et al., Cell 171(2):287-304.e15		10.1016/j.cell.2017.09.030	Published
+MpAMT2.1	AMMONIUM TRANSPORTER 2.1		ammonium transporter		Mapoly0028s0091; Mp2g00600	Bowman et al., Cell 171(2):287-304.e15  		10.1016/j.cell.2017.09.030	Published
+MpAMT2.10	AMMONIUM TRANSPORTER 2.10		ammonium transporter		Mapoly0192s0013; Mp8g18470	Bowman et al., Cell 171(2):287-304.e15		10.1016/j.cell.2017.09.030	Published
+MpAMT2.2	AMMONIUM TRANSPORTER 2.2		ammonium transporter		Mapoly0080s0061; Mp4g02370	Bowman et al., Cell 171(2):287-304.e15  		10.1016/j.cell.2017.09.030	Published
+MpAMT2.3	AMMONIUM TRANSPORTER 2.3		ammonium transporter		Mapoly0174s0008; Mp4g12460	Bowman et al., Cell 171(2):287-304.e15		10.1016/j.cell.2017.09.030	Published
+MpAMT2.4	AMMONIUM TRANSPORTER 2.4		ammonium transporter		Mapoly0192s0010; Mp8g18510	Bowman et al., Cell 171(2):287-304.e15 		10.1016/j.cell.2017.09.030	Published
+MpAMT2.5	AMMONIUM TRANSPORTER 2.5		ammonium transporter		Mapoly0192s0011; Mp8g18500	Bowman et al., Cell 171(2):287-304.e15		10.1016/j.cell.2017.09.030	Published
+MpAMT2.6	AMMONIUM TRANSPORTER 2.6		ammonium transporter		Mapoly0192s0012; Mp8g18480	Bowman et al., Cell 171(2):287-304.e15 		10.1016/j.cell.2017.09.030	Published
+MpAMT2.7	AMMONIUM TRANSPORTER 2.7		ammonium transporter		Mapoly0192s0015; Mp8g18450	Bowman et al., Cell 171(2):287-304.e15		10.1016/j.cell.2017.09.030	Published
+MpAMT2.8	AMMONIUM TRANSPORTER 2.8		ammonium transporter		Mapoly0213s0002; Mp8g18430	Bowman et al., Cell 171(2):287-304.e15 		10.1016/j.cell.2017.09.030	Published
+MpAMT2.9	AMMONIUM TRANSPORTER 2.9		ammonium transporter		Mapoly0213s0001; Mp8g18440	Bowman et al., Cell 171(2):287-304.e15 		10.1016/j.cell.2017.09.030	Published
+MpAO	MpAO		abscisic aldehyde oxidase		Mapoly0013s0153.1; Mp8g06370.1				Public
+MpAP2B3-1	MpAP2B3-1, MpRAV		transcription factor, AP2-B3		Mapoly0072s0102.1; Mp2g22250.1				Public
+MpAP2B3-2	MpAP2B3-2, MpREM3		transcription factor, AP2-B3		Mapoly0093s0032.1; Mp5g11100.1				Public
+MpAP2L1	MpAP2L1		transcription factor, AP2/ERF		Mapoly0008s0071.1; Mp8g11450.1				Public
+MpAP2L2	MpAP2L2		transcription factor, AP2/ERF		Mapoly0009s0013.1; Mp7g13270.1				Public
+MpAP2L3	MpAP2L3		transcription factor, AP2/ERF		Mapoly0048s0045.1; Mp5g10280.1				Public
+MpAP2L4	MpAP2L4		transcription factor, AP2/ERF		Mapoly0144s0031.1; Mp6g16760.1				Public
+MpAP2L5	MpAP2L5		transcription factor, AP2/ERF		Mapoly0144s0032.1; Mp6g16750.1				Public
+MpAP2L6	MpAP2L6		transcription factor, AP2/ERF		Mapoly0144s0033.1; Mp6g16820.1				Public
+MpAP2L7	MpAP2L7		transcription factor, AP2/ERF		Mapoly1480s0001.1; Mp6g16770.1				Public
+MpARA6	Arabidopsis thaliana gene 6		RAB GTPase	genome paper: Mapoly0077s0027.1	Mapoly0077s0027.1; Mp8g00450.1				Public
+MpARF1	AUXIN RESPONSE FACTOR1		Transcriptiion factor, similarity to Arabidopsis activator ARFs.	The M. polymorpha genome encodes three ARFs (MpARF1, MpARF2, and MpARF3). The three MpARFs have a structure common to typical ARFs, containing a B3-like DNA binding domain (DBD) and a protein-protein interaction motif, called domains III and IV (Figs 1A and S2). Between the DBD and domain III, MpARF1 harbors a glutamine-rich region, which is known as a feature of activator ARF members. Phylogenetic analysis showed that MpARF1 belonged to the clade A, which represents activator ARF proteins such as ARF5/MONOPTEROS (MP) of Arabidopsis.	Mapoly0019s0045.1; Mp1g12750.1	Kato et al., PLOS Genet. 11, e1005084 (2015) PMID: 26020919; Flores-Sandval et al., PLOS Genet. 11, e1005207 (2015). PMID: 26020649	PMID: 26020919; PMID: 26020649		Published
+MpARF2	AUXIN RESPONSE FACTOR2		Transcriptiion factor, similarity to Arabidopsis repressor ARFs.	MpARF2 resided in clade B, and was shown to function as transcriptional repressor.	Mapoly0011s0167.1; Mp4g11820.1	Kato et al., PLOS Genet. 11, e1005084 (2015) PMID: 26020919; Flores-Sandval et al., PLOS Genet. 11, e1005207 (2015). PMID: 26020649	PMID: 26020919; PMID: 26020649		Published
+MpARF3	AUXIN RESPONSE FACTOR3		Transcriptiion factor, similarity to Arabidopsis repressor ARFs.	MpARF3 has a relatively longer DBD, and its domains III and IV show lower similarity to ARFs in the clades A and B. MpARF3 mRNA contains the possible target sequence of microRNA160. These features are common with Arabidopsis ARF10 and ARF16, which possibly function as repressors. Phylogenetic analysis supported the placement of MpARF3 in the clade C including Arabidopsis ARF10, ARF16, and ARF17.	Mapoly0043s0098.1; Mp1g07070.1	Kato et al., PLOS Genet. 11, e1005084 (2015) PMID: 26020919; Flores-Sandval et al., PLOS Genet. 11, e1005207 (2015). PMID: 26020649	PMID: 26020919; PMID: 26020649		Published
+MpARFA1	ADP-ribosylation factor A1		SAR/ARF GTPase	genome paper: Mapoly0003s0313.1	Mapoly0003s0313.1; Mp7g13050.1				Public
+MpARFA2	ADP-ribosylation factor A2		SAR/ARF GTPase	genome paper: Mapoly0004s0279.1	Mapoly0004s0279.1; Mp3g13920.1				Public
+MpARFA3	ADP-ribosylation factor A3		SAR/ARF GTPase	genome paper: Mapoly0023s0085.1	Mapoly0023s0085.1; Mp2g11170.1				Public
+MpARFB1	ADP-ribosylation factor B1		SAR/ARF GTPase	genome paper: Mapoly0013s0061.1	Mapoly0013s0061.1; Mp8g07320.1				Public
+MpARFB2	ADP-ribosylation factor B2		SAR/ARF GTPase	genome paper: Mapoly0003s0186.1	Mapoly0003s0186.1; Mp7g11740.1				Public
+MpARFC1	ADP-ribosylation factor C1		SAR/ARF GTPase	genome paper: Mapoly0083s0064.1	Mapoly0083s0064.1; Mp8g12560.1				Public
+MpARFC2	ADP-ribosylation factor C2		SAR/ARF GTPase	genome paper: Mapoly0013s0177.1	Mapoly0013s0177.1; Mp8g06130.1				Public
+MpARFC3	ADP-ribosylation factor C3		SAR/ARF GTPase	genome paper: Mapoly0071s0114.1	Mapoly0071s0114.1; Mp5g14970.1				Public
+MpARFD1	ADP-ribosylation factor D1		SAR/ARF GTPase	genome paper: Mapoly0042s0078.1	Mapoly0042s0078.1; Mp2g14560.1				Public
+MpARFD2	ADP-ribosylation factor D2		SAR/ARF GTPase	genome paper: Mapoly0044s0050.1	Mapoly0044s0050.1; Mp4g04230.1				Public
+MpARFD3	ADP-ribosylation factor D3		SAR/ARF GTPase	genome paper: Mapoly0044s0052.1	Mapoly0044s0052.1; Mp4g04210.1				Public
+MpARFD4	ADP-ribosylation factor D4		SAR/ARF GTPase	genome paper: Mapoly0105s0044.1	Mapoly0105s0044.1; Mp3g08730.1				Public
+MpARFLA	ADP-ribosylation factor like A		SAR/ARF GTPase	genome paper: Mapoly0129s0042.1	Mapoly0129s0042.1; Mp2g10180.1				Public
+MpARFLB	ADP-ribosylation factor like B		SAR/ARF GTPase	genome paper: Mapoly0024s0084.1	Mapoly0024s0084.1; Mp3g23070.1				Public
+MpARFLC	ADP-ribosylation factor like C		SAR/ARF GTPase	genome paper: Mapoly0224s0005.1	Mapoly0224s0005.1; Mp3g24610.1				Public
+MpARID-HMGBOX	MpARID-HMGbox		transcription factor, ARID-HMGbox		Mapoly0043s0128.1; Mp1g07350.1				Public
+MpARID1	MpARID1		transcription factor, ARID		Mapoly0013s0062.1; Mp8g07310.1				Public
+MpARID2	MpARID2		transcription factor, ARID		Mapoly0030s0125.1; Mp8g17910.1				Public
+MpARID3	MpARID3		transcription factor, ARID		Mapoly0062s0083.1; Mp7g04420.1				Public
+MpARID4	MpARID4		transcription factor, ARID		Mapoly0094s0004.1; Mp2g17360.1				Public
+MpASLBD1	MpASLBD1		transcription factor, ASL/LBD		Mapoly0004s0047.1; Mp3g16240.1				Public
+MpASLBD10	MpASLBD10		transcription factor, ASL/LBD		Mapoly0084s0032.1; Mp5g17820.1				Public
+MpASLBD11	MpASLBD11		transcription factor, ASL/LBD		Mapoly0093s0018.1; Mp5g10960.1				Public
+MpASLBD12	MpASLBD12		transcription factor, ASL/LBD		Mapoly0093s0069.1; Mp5g11460.1				Public
+MpASLBD13	MpASLBD13		transcription factor, ASL/LBD		Mapoly0097s0062.1; Mp6g05810.1				Public
+MpASLBD14	MpASLBD14		transcription factor, ASL/LBD		Mapoly0152s0027.1; Mp6g09270.1				Public
+MpASLBD15	MpASLBD15		transcription factor, ASL/LBD		Mapoly0153s0039.1; Mp1g14500.1				Public
+MpASLBD16	MpASLBD16		transcription factor, ASL/LBD		Mapoly0173s0030.1; Mp6g06850.1				Public
+MpASLBD17	MpASLBD17		transcription factor, ASL/LBD		Mapoly0176s0008.1; Mp8g09250.1				Public
+MpASLBD18	MpASLBD18		transcription factor, ASL/LBD		Mapoly0721s0001.1; Mp6g09280.1				Public
+MpASLBD19	MpASLBD19		transcription factor, ASL/LBD		Mapoly0817s0001.1; Mpzg00130.1				Public
+MpASLBD2	MpASLBD2		transcription factor, ASL/LBD		Mapoly0008s0060.1; Mp8g11560.1				Public
+MpASLBD20	MpASLBD20		transcription factor, ASL/LBD		Mapoly1185s0001.1; Mp7g18690.1				Public
+MpASLBD21	MpASLBD21		transcription factor, ASL/LBD		Mapoly1803s0001.1; Mpzg01450.1				Public
+MpASLBD22	MpASLBD22		transcription factor, ASL/LBD		Mapoly3661s0001.1; Mp4g01170.1				Public
+MpASLBD23	MpASLBD23		transcription factor, ASL/LBD						Public
+MpASLBD24	MpASLBD24		transcription factor, ASL/LBD		Mapoly0050s0090.1; Mp3g12980.1				Public
+MpASLBD3	MpASLBD3		transcription factor, ASL/LBD		Mapoly0009s0166.1; Mp7g14810.1				Public
+MpASLBD4	MpASLBD4		transcription factor, ASL/LBD		Mapoly0011s0037.1; Mp4g10500.1				Public
+MpASLBD5	MpASLBD5		transcription factor, ASL/LBD		Mapoly0046s0060.1; Mp7g00650.1				Public
+MpASLBD6	MpASLBD6		transcription factor, ASL/LBD		Mapoly0051s0062.1; Mp7g17250.1				Public
+MpASLBD7	MpASLBD7		transcription factor, ASL/LBD		Mapoly0058s0090.1; Mp5g21080.1				Public
+MpASLBD8	MpASLBD8		transcription factor, ASL/LBD		Mapoly0060s0092.1; Mp6g08290.1				Public
+MpASLBD9	MpASLBD9		transcription factor, ASL/LBD		Mapoly0080s0037.1; Mp4g02620.1				Public
+MpATHOOK1	MpAThook1		transcription factor, AThook		Mapoly0102s0028.1; Mp7g18120.1				Public
+MpATHOOK2	MpAThook2		transcription factor, AThook		Mapoly0129s0052.1; Mp2g10280.1				Public
+MpATHOOK3	MpAThook3		transcription factor, AThook		Mapoly0151s0042.1; Mp8g14640.1				Public
+MpAUX1	AUXIN RESISTANT 1		Encodes auxin influx transporter	Genome paper Mapoly0107s0048	Mapoly0107s0048; Mp1g29330				Public
+MpB3-1	MpB3-1, MpARF2		transcription factor, B3	Formerly, MpB3-1 was assigned to Mapoly0011s0167.1, but Mapoly0011s0167.1 is now registered as MpARF2					Public
+MpB3-2	MpB3-2, MpREM2		transcription factor, B3		Mapoly0015s0164.1; Mp2g08790.1				Public
+MpB3-3	MpB3-3, MpARF1		transcription factor, B3						Public
+MpB3-4	MpB3-4, MpARF3		transcription factor, B3						Public
+MpB3-5	MpB3-5, MpVAL/HSL		transcription factor, B3		Mapoly0074s0026.1; Mp7g03700.1				Public
+MpB3-6	MpB3-6, MpABI3A		transcription factor, B3		Mapoly0086s0035.1; Mp5g08310.1				Public
+MpB3-7	MpB3-7, MpREM1		transcription factor, B3		Mapoly0183s0010.1; Mp3g24780.1				Public
+MpB3-8	MpB3-8, MpABI3B		transcription factor, B3		Mapoly0474s0001.1; Mp2g08260.1				Public
+MpBBX1	MpBBX1		transcription factor, BBX		Mapoly0027s0033.1; Mp5g05940.1				Public
+MpBBX2	MpBBX2		transcription factor, BBX		Mapoly0049s0030.1; Mp3g20050.1				Public
+MpBBX3	MpBBX3		transcription factor, BBX		Mapoly0049s0067.1; Mp3g19670.1				Public
+MpBBX4	MpBBX4		transcription factor, BBX		Mapoly0064s0079.1; Mp8g01190.1				Public
+MpBBX5	MpBBX5		transcription factor, BBX		Mapoly0110s0028.1; Mp8g13470.1				Public
+MpBBX6	MpBBX6		transcription factor, BBX		Mapoly0122s0029.1; Mp2g16350.1				Public
+MpBELL1	MpBELL1		Homeodomain protein	Genome paper: Mapoly0132s0008_BELL2 Mapoly0213s0014_BELL1 Mapoly0093s0028_BELL5 Mapoly0013s0027_BELL4 Mapoly0012s0090_BELL3	Mapoly0213s0014; Mp8g18310				Public
+MpBELL2	MpBELL2		Homeodomain protein	Genome paper: Mapoly0132s0008_BELL2 Mapoly0213s0014_BELL1 Mapoly0093s0028_BELL5 Mapoly0013s0027_BELL4 Mapoly0012s0090_BELL3	Mapoly0132s0008; Mp4g09650				Public
+MpBELL3	MpBELL3		Homeodomain protein	Genome paper: Mapoly0132s0008_BELL2 Mapoly0213s0014_BELL1 Mapoly0093s0028_BELL5 Mapoly0013s0027_BELL4 Mapoly0012s0090_BELL3	Mapoly0012s0090; Mp8g02970				Public
+MpBELL4	MpBELL4		Homeodomain protein	Genome paper: Mapoly0132s0008_BELL2 Mapoly0213s0014_BELL1 Mapoly0093s0028_BELL5 Mapoly0013s0027_BELL4 Mapoly0012s0090_BELL3	Mapoly0013s0027; Mp8g07680				Public
+MpBELL5	MpBELL5		Homeodomain protein	Genome paper: Mapoly0132s0008_BELL2 Mapoly0213s0014_BELL1 Mapoly0093s0028_BELL5 Mapoly0013s0027_BELL4 Mapoly0012s0090_BELL3	Mapoly0093s0028; Mp5g11060				Public
+MpBET1	Blocked early in transport 1		Ortholog of Arabidopsis BET1 genes	The transcript is detected in thalli, antheridiophores, archegoniophores, and sporelings. Citrine-tagged MpBET1 driven by the cauliflower mosaic virus 35S promoter is localized to the trans-Golgi network.	Mapoly0002s0103; Mp1g27750	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpBHLH1	MpbHLH1		transcription factor, bHLH		Mapoly0124s0021.1; Mp5g03020.1				Public
+MpBHLH10	MpbHLH10		transcription factor, bHLH		Mapoly0098s0046.1; Mp4g01540.1				Public
+MpBHLH11	MpbHLH11		transcription factor, bHLH		Mapoly0054s0021.1; Mp4g15560.1				Public
+MpBHLH12	MpbHLH12		transcription factor, bHLH		Mapoly0031s0161.1; Mp2g05070.1				Public
+MpBHLH13	MpbHLH13		transcription factor, bHLH		Mapoly0040s0112.1; Mp2g20990.1				Public
+MpBHLH14	MpbHLH14, MpRSL1		transcription factor, bHLH		Mapoly0039s0003.1; Mp3g17930.1				Public
+MpBHLH15	MpbHLH15		transcription factor, bHLH		Mapoly0038s0058.1; Mp6g18480.1				Public
+MpBHLH16	MpbHLH16		transcription factor, bHLH		Mapoly0150s0015.1; Mp4g04910.1				Public
+MpBHLH17	MpbHLH17		transcription factor, bHLH		Mapoly0150s0016.1; Mp4g04920.1				Public
+MpBHLH18	MpbHLH18		transcription factor, bHLH		Mapoly0016s0110.1; Mp6g10690.1				Public
+MpBHLH19	MpbHLH19		transcription factor, bHLH		Mapoly0088s0049.1; Mp7g02370.1				Public
+MpBHLH2	MpbHLH2		transcription factor, bHLH		Mapoly0028s0062.1; Mp2g00890.1				Public
+MpBHLH20	MpbHLH20		transcription factor, bHLH		Mapoly0024s0106.1; Mp3g23300.1				Public
+MpBHLH21	MpbHLH21		transcription factor, bHLH		Mapoly0037s0007.1; Mp3g11900.1				Public
+MpBHLH22	MpbHLH22		transcription factor, bHLH		Mapoly0030s0141.1; Mp8g18080.1				Public
+MpBHLH23	MpbHLH23		transcription factor, bHLH		Mapoly0114s0037.1; Mp4g06170.1				Public
+MpBHLH24	MpbHLH24		transcription factor, bHLH		Mapoly0012s0202.1; Mp8g04130.1				Public
+MpBHLH25	MpbHLH25		transcription factor, bHLH		Mapoly0012s0026.1; Mp8g02290.1				Public
+MpBHLH26	MpbHLH26		transcription factor, bHLH	X-linked	Mapoly0018s0018.1				Public
+MpBHLH27	MpbHLH27		transcription factor, bHLH		Mapoly0001s0259.1; Mp1g19210.1				Public
+MpBHLH28	MpbHLH28		transcription factor, bHLH		Mapoly0091s0008.1; Mp6g21470.1				Public
+MpBHLH29	MpbHLH29		transcription factor, bHLH		Mapoly0015s0003.1; Mp2g07150.1				Public
+MpBHLH3	MpbHLH3		transcription factor, bHLH		Mapoly0028s0060.1; Mp2g00910.1				Public
+MpBHLH30	MpbHLH30		transcription factor, bHLH		Mapoly0015s0001.1; Mp2g07130.1				Public
+MpBHLH31	MpbHLH31		transcription factor, bHLH		Mapoly0232s0001.1; Mp2g07110.1				Public
+MpBHLH32	MpbHLH32		transcription factor, bHLH		Mapoly0034s0053.1; Mp6g04650.1				Public
+MpBHLH33	MpbHLH33		transcription factor, bHLH		Mapoly0029s0135.1; Mp1g01110.1				Public
+MpBHLH34	MpbHLH34		transcription factor, bHLH		Mapoly0029s0130.1; Mp1g01160.1				Public
+MpBHLH35	MpbHLH35		transcription factor, bHLH		Mapoly0031s0072.1; Mp2g04160.1				Public
+MpBHLH36	MpbHLH36		transcription factor, bHLH		Mapoly0031s0074.1; Mp2g04180.1				Public
+MpBHLH37	MpbHLH37		transcription factor, bHLH		Mapoly0031s0076.1; Mp2g04200.1				Public
+MpBHLH38	MpbHLH38		transcription factor, bHLH		Mapoly0126s0029.1; Mp4g19650.1				Public
+MpBHLH39	MpbHLH39		transcription factor, bHLH		Mapoly0073s0059.1; Mp5g18820.1				Public
+MpBHLH4	MpbHLH4		transcription factor, bHLH		Mapoly0028s0058.1; Mp2g00930.1				Public
+MpBHLH40	MpbHLH40		transcription factor, bHLH		Mapoly0073s0051.1; Mp5g18910.1				Public
+MpBHLH41	MpbHLH41		transcription factor, bHLH		Mapoly0100s0033.1; Mp3g25200.1				Public
+MpBHLH42	MpbHLH42		transcription factor, bHLH		Mapoly0048s0099.1; Mp5g09710.1				Public
+MpBHLH43	MpbHLH43, MpLRL1		transcription factor, bHLH		Mapoly0502s0001.1; Mpzg01410.1				Public
+MpBHLH44	MpbHLH44		transcription factor, bHLH		Mapoly0174s0004.1; Mp4g12420.1				Public
+MpBHLH45	MpbHLH45		transcription factor, bHLH		Mapoly0055s0052.1; Mp2g19970.1				Public
+MpBHLH46	MpbHLH46		transcription factor, bHLH	Y-linked	MapolyY_B0018; MpVg00340				Public
+MpBHLH47	MpbHLH47		transcription factor, bHLH		Mapoly0028s0101.1; Mp2g00500.1				Public
+MpBHLH48	MpbHLH48		transcription factor, bHLH		Mapoly0028s0100.1; Mp2g00510.1				Public
+MpBHLH49	MpbHLH49		transcription factor, bHLH		Mapoly0025s0044.1; Mp2g26400.1				Public
+MpBHLH5	MpbHLH5		transcription factor, bHLH		Mapoly0035s0146.1; Mp6g03670.1				Public
+MpBHLH50	MpbHLH50		transcription factor, bHLH		Mapoly0031s0075.1; Mp2g04190.1				Public
+MpBHLH51	MpbHLH51		transcription factor, bHLH		Mapoly0013s0167.1; Mp8g06230.1				Public
+MpBHLH6	MpbHLH6, MpPIF		transcription factor, bHLH		Mapoly0039s0059.1; Mp3g17350.1				Public
+MpBHLH7	MpbHLH7		transcription factor, bHLH		Mapoly0039s0068.1; Mp3g17260.1				Public
+MpBHLH8	MpbHLH8		transcription factor, bHLH		Mapoly0021s0100.1; Mp2g06450.1				Public
+MpBHLH9	MpbHLH9		transcription factor, bHLH		Mapoly0021s0101.1; Mp2g06460.1				Public
+MpBNB	MpBONOBO	MpBONOBO; MpBHLH20	transcription factor, bHLH	essential for gametangium initial cell differentiation and gametangiophore development; the protein mainly accumulates in gametangium initial cells.	Mapoly0024s0106.1; Mp3g23300.1	Yamaoka et al., Curr. Biol.28(3):479-486 (2018)	29395928	10.1016/j.cub.2017.12.053	Published
+MpBPC1	MpBPC1	MpBPCU	transcription factor, BBR/BPC (obsolete)	X-linked	Mapoly0018s0011.1				Public
+MpBPC2	MpBPC2	MpBPCV	transcription factor, BBR/BPC (obsolete)	Y-linked	MapolyY_B0017; MpVg00350				Public
+MpBZIP1	MpbZIP1		transcription factor, bZIP		Mapoly0001s0021.1; Mp1g16800.1				Public
+MpBZIP10	MpbZIP10		transcription factor, bZIP		Mapoly0046s0102.1; Mp7g00210.1				Public
+MpBZIP11	MpbZIP11		transcription factor, bZIP		Mapoly0069s0009.1; Mp2g23600.1				Public
+MpBZIP12	MpbZIP12		transcription factor, bZIP		Mapoly0072s0050.1; Mp2g22820.1				Public
+MpBZIP13	MpbZIP13		transcription factor, bZIP		Mapoly0122s0020.1; Mp2g16440.1				Public
+MpBZIP14	MpbZIP14		transcription factor, bZIP		Mapoly0130s0030.1; Mp2g02230.1				Public
+MpBZIP15	MpbZIP15		transcription factor, bZIP		Mapoly0737s0001.1; Mp1g03580.1				Public
+MpBZIP2	MpbZIP2		transcription factor, bZIP		Mapoly0007s0056.1; Mp3g00600.1				Public
+MpBZIP3	MpbZIP3		transcription factor, bZIP		Mapoly0012s0172.1; Mp8g03820.1				Public
+MpBZIP4	MpbZIP4		transcription factor, bZIP		Mapoly0015s0005.1; Mp2g07170.1				Public
+MpBZIP5	MpbZIP5		transcription factor, bZIP		Mapoly0016s0098.1; Mp6g10570.1				Public
+MpBZIP6	MpbZIP6		transcription factor, bZIP		Mapoly0019s0040.1; Mp1g12700.1				Public
+MpBZIP7	MpbZIP7		transcription factor, bZIP		Mapoly0022s0095.1; Mp3g04360.1				Public
+MpBZIP8	MpbZIP8		transcription factor, bZIP		Mapoly0026s0039.1; Mp2g13330.1				Public
+MpBZIP9	MpbZIP9		transcription factor, bZIP		Mapoly0034s0126.1; Mp6g03920.1				Public
+MpBZR1	MpBZR1		transcription factor, BZR/BES		Mapoly0013s0054.1; Mp8g07390.1				Public
+MpBZR2	MpBZR2		transcription factor, BZR/BES		Mapoly0019s0096.1; Mp1g13260.1				Public
+MpBZR3	MpBZR3		transcription factor, BZR/BES		Mapoly0072s0031.1; Mp2g23000.1				Public
+MpC1HDZ	CLASS I HOMEODOMAIN-LEUCINE ZIPPER		Homeodomain protein	Genome paper Mapoly0007s0221	Mapoly0007s0221; Mp3g02320				Public
+MpC2H2-1	MpC2H2-1		transcription factor, C2H2-ZnF		Mapoly0003s0245.1; Mp7g12340.1				Public
+MpC2H2-10	MpC2H2-10		transcription factor, C2H2-ZnF		Mapoly0069s0060.1; Mp2g24110.1				Public
+MpC2H2-11	MpC2H2-11		transcription factor, C2H2-ZnF		Mapoly0069s0082.1; Mp2g24330.1				Public
+MpC2H2-12	MpC2H2-12		transcription factor, C2H2-ZnF		Mapoly0070s0095.1; Mp4g13860.1				Public
+MpC2H2-13	MpC2H2-13		transcription factor, C2H2-ZnF		Mapoly0085s0044.1; Mp3g09820.1				Public
+MpC2H2-14	MpC2H2-14		transcription factor, C2H2-ZnF		Mapoly0089s0067.1; Mp3g21490.1				Public
+MpC2H2-15	MpC2H2-15		transcription factor, C2H2-ZnF		Mapoly0095s0037.1; Mp5g09220.1				Public
+MpC2H2-16	MpC2H2-16		transcription factor, C2H2-ZnF		Mapoly0110s0001.1; Mpzg00170.1				Public
+MpC2H2-17	MpC2H2-17		transcription factor, C2H2-ZnF		Mapoly0153s0037.1; Mp1g14520.1				Public
+MpC2H2-2	MpC2H2-2		transcription factor, C2H2-ZnF		Mapoly0006s0064.1; Mp3g05940.1				Public
+MpC2H2-3	MpC2H2-3		transcription factor, C2H2-ZnF		Mapoly0011s0122.1; Mp4g11380.1				Public
+MpC2H2-4	MpC2H2-4		transcription factor, C2H2-ZnF		Mapoly0016s0064.1; Mp6g10210.1				Public
+MpC2H2-5	MpC2H2-5		transcription factor, C2H2-ZnF		Mapoly0019s0115.1; Mp1g13450.1				Public
+MpC2H2-6	MpC2H2-6		transcription factor, C2H2-ZnF		Mapoly0029s0022.1; Mp1g02250.1				Public
+MpC2H2-7	MpC2H2-7		transcription factor, C2H2-ZnF		Mapoly0041s0098.1; Mp4g18170.1				Public
+MpC2H2-8	MpC2H2-8		transcription factor, C2H2-ZnF		Mapoly0061s0023.1; Mp1g25020.1				Public
+MpC2H2-9	MpC2H2-9		transcription factor, C2H2-ZnF		Mapoly0068s0079.1; Mp7g09260.1				Public
+MpC2HDZ	CLASS II HOMEODOMAIN-LEUCINE ZIPPER		Homeodomain protein	Genome paper Mapoly0069s0069	Mapoly0069s0069; Mp2g24200				Public
+MpC3HDZ	CLASS III HOMEODOMAIN-LEUCINE ZIPPER		Homeodomain protein	Genome paper Mapoly0061s0107	Mapoly0061s0107; Mp1g24140				Public
+MpC4HDZ	CLASS IV HOMEODOMAIN-LEUCINE ZIPPER		Homeodomain protein	Genome paper Mapoly0156s0012	Mapoly0156s0012; Mp7g09710	Zalewski et al., Mol. Biol. Evol. 30, 2347-2365 (2013).			Published
+MpCAMTA	MpCAMTA		transcription factor, CAMTA		Mapoly0074s0081.1; Mp7g03150.1				Public
+MpCAPE	COMBINED AC WITH PDE		adenylyl cyclase with a phosphodiestrase domain		Mapoly0068s0004; Mp7g08500	Kasahara et al. Sci. Rep. 6:39232 (2016).	27982074	10.1038/srep39232	Published
+MpCBF5	MpCBF5		transcription factor, CBF5		Mapoly0138s0004.1; Mp4g12650.1				Public
+MpCCAAT-NFYA	MpCCAAT-NFYA		transcription factor, CCAAT-NFYA		Mapoly0019s0144.1; Mp1g13740.1				Public
+MpCCAAT-NFYB1	MpCCAAT-NFYB1		transcription factor, CCAAT-NFYB		Mapoly0214s0002.1; Mp4g13360.1				Public
+MpCCAAT-NFYB2	MpCCAAT-NFYB2		transcription factor, CCAAT-NFYB		Mapoly0216s0010.1; Mp8g04400.1				Public
+MpCCAAT-NFYC1	MpCCAAT-NFYC1		transcription factor, CCAAT-NFYC		Mapoly0005s0152.1; Mp1g04550.1				Public
+MpCCAAT-NFYC2	MpCCAAT-NFYC2		transcription factor, CCAAT-NFYC		Mapoly0053s0058.1; Mp6g07440.1				Public
+MpCCAAT-NFYC3	MpCCAAT-NFYC3		transcription factor, CCAAT-NFYC		Mapoly0168s0007.1; Mp2g25260.1				Public
+MpCDC5	MpCDC5		transcription factor, MYB		Mapoly0014s0195.1; Mp1g10310.1				Public
+MpCDF	Marchantia polymorpha CYCLIC DOF FACTOR, MpCDF		transcription factor, Dof		Mapoly0001s0192.1; Mp1g18540.1				Public
+MpCEN2	CENTRIN2		centin						Public
+MpCHUP1	CHLOROPLAST UNUSUAL POSITIONING 1		actin-binding protein CHUP1						Public
+MpCIB1	cryptochrome-interacting basic-helix-loop-helix 1		A bHLH transcription factor						Public
+MpCIB2	cryptochrome-interacting basic-helix-loop-helix 2		A bHLH transcription factor						Public
+MpCLE1	CLAVATA3/EMBRYO SURROUNDING REGION-RELATED 1		peptide hormone	Genome paper Mapoly1011s0001.1	Mapoly1011s0001.1; Mp6g07050.1				Public
+MpCLE2	CLAVATA3/EMBRYO SURROUNDING REGION-RELATED 2		peptide hormone	Genome paper Mapoly0084s0052.1	Mapoly0084s0052.1; Mp5g18050.1				Public
+MpCLV1	CLAVATA 1		leucine rich repeat receptor kinase	Genome paper Mapoly0002s0106 MpCLV1	Mapoly0002s0106; Mp1g27720				Public
+MpCOI1	Coronatine Insensitive 1		Receptor of OPDA-derived ligand	F-box protein related to Arabidopsis COI1	Mapoly0025s0025; Mp2g26590				Public
+MpCOP1	CONSTITUTIVELY PHOTOMORPHOGENIC 1		A RING finger E3 ubiquitin ligase						Public
+MpCOP10	CONSTITUTIVELY PHOTOMORPHOGENIC 10		A subunit of CDD complex						Public
+MpCRY	cryptochrome		blue-light receptor CRYPTOCHROME		Mapoly0094s0027; Mp2g17590	Bowman et al. Cell 171(2):287-304 (2017).	28985561	10.1016/j.cell.2017.09.030	Published
+MpCSD	MpCSD		transcription factor, CSD		Mapoly0005s0203.1; Mp1g04040.1				Public
+MpCSI	cellulose synthase-interactive protein		C2 calcium-dependent membrane targeting						Public
+MpCTR1	CONSTITUTIVE TRIPLE RESPONSE 1-3		Potential negative regulator of ethylene signal transduction pathway. Potential orthologs to AtCTRs	Genome paper MpCTR1: Mapoly0079s0028 MpCTR2: Mapoly0079s0050 MpCTR3: Mapoly0154s0032	Mapoly0079s0028; Mp8g15840				Public
+MpCTR2	CONSTITUTIVE TRIPLE RESPONSE 1-3		Potential negative regulator of ethylene signal transduction pathway. Potential orthologs to AtCTRs	Genome paper MpCTR1: Mapoly0079s0028 MpCTR2: Mapoly0079s0050 MpCTR3: Mapoly0154s0032	Mapoly0079s0050; Mp8g15630				Public
+MpCTR3	CONSTITUTIVE TRIPLE RESPONSE 1-3		Potential negative regulator of ethylene signal transduction pathway. Potential orthologs to AtCTRs	Genome paper MpCTR1: Mapoly0079s0028 MpCTR2: Mapoly0079s0050 MpCTR3: Mapoly0154s0032	Mapoly0154s0032; Mp8g16320				Public
+MpCXC1	MpCXC1		transcription factor, CXC		Mapoly0023s0118.1; Mp2g11520.1				Public
+MpCXC2	MpCXC2		transcription factor, CXC		Mapoly0038s0096.1; Mp6g18860.1				Public
+MpCXC3	MpCXC3		transcription factor, CXC		Mapoly0084s0051.1; Mp5g18040.1				Public
+MpCYP	Cytochrome P450		Cytochrome P450 monooxygenase						Public
+MpCYP707A	MpCYP707A		ABA 8’-hydorxylase		Mapoly0025s0085.1; Mp2g25940.1				Public
+MpD6PKL	D6 PROTEIN KINASE-LIKE		AGC kinase D6PKL						Public
+MpDAZ1	DUO1-ACTIVATED ZINC FINGER 1		C2H2 Zn-finger transcription factor, ortholog of Arabidopsis thaliana DAZ1 and DAZ2		Mapoly0011s0122; Mp4g11380	Higo et al. Nat. Commun. 9(1):5283 (2018).	30538242; 26858289	10.1038/s41467-018-07728-3; 10.1093/pcp/pcw005	Published
+MpDDB1	UV-damaged DNA-binding protein 1		A subunit of CDD complex						Public
+MpDDT1	DDT1		Homeodomain protein	Genome paper DDT1: Mapoly0005s0159 DDT2: Mapoly0029s0015	Mapoly0005s0159; Mp1g04480				Public
+MpDDT2	DDT2		Homeodomain protein	Genome paper DDT1: Mapoly0005s0159 DDT2: Mapoly0029s0015	Mapoly0029s0015; Mp1g02320				Public
+MpDEL1	MpDEL1		transcription factor, E2F/DP/DEL		Mapoly0159s0029.1; Mp3g20990.1				Public
+MpDEL2	MpDEL2		transcription factor, E2F/DP/DEL		Mapoly0198s0008.1; Mp5g07890.1				Public
+MpDELLA	DELLA		putative GRAS family transcription factor  DELLA,						Public
+MpDES5	FATTY ACID DESATURASE 5		Δ5 fatty acid desaturase	MpDES5 mediates two Δ5-desaturation reactions, dihomo-γ-linolenic acid (DGLA; 20:3Δ8,11,14) to arachidonic acid (AA;20:4Δ5,8,11,14) in the n-6 pathway, and eicosatetraenoic acid (ETA; 18:4Δ8,11,14,17) to eicosapentaenoic acid (EPA; 20:5Δ5,8,11,14,17) in the n-3 pathway.		Kajikawa et al. Plant Mol. Biol. 2004 54:335-52	PMID: 15284491		Published
+MpDES6	FATTY ACID DESATURASE 6		Δ6 fatty acid desaturase	MpDES6 mediates two Δ6-desaturation reactions, linoleic acid (LA; 18:2Δ9,12) to γ-linolenic acid (GLA;18:3Δ6,9,12) in the n-6 pathway, and α-linolenic acid (ALA; 18:3Δ9,12,15) to stearidonic acid (STA; 18:4Δ6,9,12,15) in the n-3 pathway.		Kajikawa et al. Plant Mol. Biol. 2004 54:335-52	PMID: 15284491		Published
+MpDET1	DE-ETIOLATED 1		A subunit of CDD complex						Public
+MpDOF1	MpDOF1		transcription factor, Dof		Mapoly0040s0134.1; Mp2g20790.1				Public
+MpDOXC	DOXC clade in 2-oxoglutarate dependent dioxygenase		DOXC clade in 2-oxoglutarate dependent dioxygenase						Public
+MpDP1	MpDP1		transcription factor, E2F/DP/DEL		Mapoly0050s0010.1; Mp3g12060.1				Public
+MpDP2	MpDP2		transcription factor, E2F/DP/DEL		Mapoly0120s0051.1; Mp4g07910.1				Public
+MpDP3	MpDP3		transcription factor, E2F/DP/DEL		Mapoly0125s0019.1; Mp4g06740.1				Public
+MpDRP3	Dynamin-Related Protein3		mitochondrial fission factor DRP3						Public
+MpDUO1	DUO POLLEN1	MpR2R3-MYB6	R2R3-myb transcription factor, ortholog of Arabidopsis thaliana DUO1		Mapoly0019s0071; Mp1g13010	Higo et al., Plant Cell Physiol. 57, 325-338 (2016).; Higo et al., Nat. Commun. 9(1):5283 (2018).	26858289; 30538242	10.1093/pcp/pcw005; 10.1038/s41467-018-07728-3	Published
+MpE2F	MpE2F		transcription factor, E2F/DP/DEL		Mapoly0113s0037.1; Mp1g02890.1				Public
+MpEIL	MpEIL		transcription factor, EIL		Mapoly0088s0024.1; Mp7g02640.1				Public
+MpEIN2	ETHYLENE INSENSITIVE 2		Potential role in ethylene signal transduction. Potential ortholog to AtEIN2	Genome paper Mapoly0001s0226	Mapoly0001s0226; Mp1g18880				Public
+MpEIN3	ETHYLENE INSENSITIVE 3		Potential role in ethylene signal transduction. Potential ortholog to AtEIN3	Genome paper Mapoly0088s0024	Mapoly0088s0024; Mp7g02640				Public
+MpELF3	EARLY FLOWERING 3		A subunit of evening complex		Mapoly0014s0139; Mp1g10870	Linde et al. New Phytol . 216(2):576-590 (2017).	28244104	10.1111/nph.14487	Public
+MpELF4	EARLY FLOWERING 4		A subunit of evening complex		Mapoly0033s0009; Mp1g16510	Linde et al. New Phytol . 216(2):576-590 (2017).	28244104	10.1111/nph.14487	Published
+MpELM1	Elongated Mitochondria1		mitochondrial fission factor ELM1						Public
+MpELO1	fatty acid elongase		Δ6-fatty acid elongase			Kajikawa et al. Plant Mol. Biol. 54, 335-52 (2004).	PMID: 15284491		Published
+MpEPFL1	EPIDERMAL PATTERNING FACTOR-like 1		cysteine-rich peptide EPFL1	Genome paper					Public
+MpEPFL2	EPIDERMAL PATTERNING FACTOR-like 2		cysteine-rich peptide EPFL2	Genome paper					Public
+MpER	ERECTA		LRR receptor like kinase ERECTA	Genome paper Mapoly0070s0019 MpER	Mapoly0070s0019; Mp4g14620				Public
+MpERF1	ETHYLENE RESPONSE FACTOR 1		Transcription factor, potential ortholog of AtERF1	Genome paper Mapoly0068s0088	Mapoly0068s0088; Mp7g09350				Public
+MpERF10	MpERF10		transcription factor, AP2/ERF		Mapoly0046s0038.1; Mp7g00860.1				Public
+MpERF11	MpERF11		transcription factor, AP2/ERF		Mapoly0051s0040.1; Mp7g17020.1				Public
+MpERF12	MpERF12		transcription factor, AP2/ERF		Mapoly0053s0002.1; Mp6g06870.1				Public
+MpERF13	MpERF13		transcription factor, AP2/ERF		Mapoly0060s0052.1; Mp6g08690.1				Public
+MpERF14	MpERF14		transcription factor, AP2/ERF		Mapoly0066s0103.1; Mp4g00380.1				Public
+MpERF15	MpERF15		transcription factor, AP2/ERF		Mapoly0068s0088.1; Mp7g09350.1				Public
+MpERF16	MpERF16		transcription factor, AP2/ERF		Mapoly0090s0001.1; Mp4g22290.1				Public
+MpERF17	MpERF17		transcription factor, AP2/ERF		Mapoly0090s0002.1; Mp4g22280.1				Public
+MpERF18	MpERF18		transcription factor, AP2/ERF		Mapoly0092s0058.1; Mp5g12480.1				Public
+MpERF19	MpERF19		transcription factor, AP2/ERF		Mapoly0124s0064.1; Mp5g02590.1				Public
+MpERF2	MpERF2		transcription factor, AP2/ERF		Mapoly0009s0061.1; Mp7g13760.1				Public
+MpERF20	MpERF20		transcription factor, AP2/ERF		Mapoly0136s0025.1; Mp5g06970.1				Public
+MpERF21	MpERF21		transcription factor, AP2/ERF		Mapoly0166s0010.1; Mp5g22160.1				Public
+MpERF22	MpERF22		transcription factor, AP2/ERF		Mapoly0223s0002.1; Mp6g11770.1				Public
+MpERF23	MpERF23		transcription factor, AP2/ERF		Mapoly0293s0001.1; Mp5g01050.1				Public
+MpERF3	MpERF3		transcription factor, AP2/ERF		Mapoly0020s0001.1; Mp4g22310.1				Public
+MpERF4	MpERF4		transcription factor, AP2/ERF		Mapoly0023s0075.1; Mp2g11080.1				Public
+MpERF5	MpERF5		transcription factor, AP2/ERF		Mapoly0026s0095.1; Mp2g12750.1				Public
+MpERF6	MpERF6		transcription factor, AP2/ERF		Mapoly0026s0097.1; Mp2g12760.1				Public
+MpERF7	MpERF7		transcription factor, AP2/ERF		Mapoly0034s0029.1; Mp6g04880.1				Public
+MpERF8	MpERF8		transcription factor, AP2/ERF		Mapoly0038s0075.1; Mp6g18650.1				Public
+MpERF9	MpERF9		transcription factor, AP2/ERF		Mapoly0041s0025.1; Mp4g17430.1				Public
+MpETR1	ETHYLENE RESPONSE 1		Potentially binds ethylene. Potential ortholog to AtETR family	Genome paper MpETR1: Mapoly0036s0126 MpETR2: Mapoly0001s0284 MpETR3: Mapoly0028s0036	Mapoly0036s0126; Mp1g08860				Public
+MpETR2	ETHYLENE RESPONSE 2		Potentially binds ethylene. Potential ortholog to AtETR family	Genome paper MpETR1: Mapoly0036s0126 MpETR2: Mapoly0001s0284 MpETR3: Mapoly0028s0036	Mapoly0001s0284; Mp1g19450				Public
+MpETR3	ETHYLENE RESPONSE 3		Potentially binds ethylene. Potential ortholog to AtETR family	Genome paper MpETR1: Mapoly0036s0126 MpETR2: Mapoly0001s0284 MpETR3: Mapoly0028s0036	Mapoly0028s0036; Mp2g01150				Public
+MpFAE1	FATTY ACID ELONGASE 1		β-ketoacyl-CoA synthase; fatty acid elongase	substrate/product unknown		Kajikawa et al., Biosci. Biotechnol. Biochem. 67, 1667-1674 (2003).	PMID: 12951498		Published
+MpFAE2	Fatty Acid Elongase 2		β-ketoacyl-CoA synthase; fatty acid elongase	The MpFAE2 gene product catalyzes the elongation steps of 18:0 to 20:0 and possibly also of 20:0 to 22:0.		Kajikawa et al., Biosci. Biotechnol. Biochem. 67, 605-612 (2003).	PMID: 12723610	doi:10.1271/bbb.67.605	Published
+MpFAE3	Fatty Acid Elongase 3		β-ketoacyl-CoA synthase; fatty acid elongase	The MpFAE3 protein is preferentially involved in the elongation of 16:0 to 18:0 and also in the subsequent steps of 18:0 to 20:0 and 20:0 to 22:0.		Kajikawa et al., Biosci. Biotechnol. Biochem. 67, 1667-1674 (2003).	PMID: 12951498	doi:10.1271/bbb.67.605	Published
+MpFER	FERONIA		Receptor-like kinase of the﻿ RLK-Pelle CrRLK1L subfamily						Public
+MpFHY1	FAR-RED ELONGATED HYPOCOTYL 1		A phytochrome signaling protein		Mapoly0122s0014; Mp2g16500	Inoue et al. Plant Cell Physiol . 60(5):1136-1145 (2019).	30816950	10.1093/pcp/pcz029	Public
+MpFIS1	FISSION1		mitochondrial outer-membrane protein FIS1						Public
+MpFKF	FLAVIN-BINDING KELCH REPEAT F-BOX		Orthologue of FKF1/ZTL/LKP2 in Arabidopsis	Knockout of MpFKF completely abolishes the long-day-dependent growth-phase transition in M. polymorpha. Overexpression of MpFKF promotes growth-phase transition under short-day conditions.	Mapoly0004s0235; Mp3g14360	Kubota et al. Nat Commun. 5:3668 (2014).	24752248	10.1038/ncomms4668	Published
+MpGARP1	MpGARP1, MpKAN		transcription factor, GARP		Mapoly0022s0032.1; Mp3g04970.1				Public
+MpGARP2	MpGARP2, MpENO		transcription factor, GARP		Mapoly0157s0009.1; Mp4g08700.1				Public
+MpGARP3	MpGARP3, MpPHR1		transcription factor, GARP		Mapoly0098s0044.1; Mp4g01560.1				Public
+MpGARP4	MpGARP4, MpPHR2		transcription factor, GARP		Mapoly0115s0048.1; Mp4g07330.1				Public
+MpGARP5	MpGARP5, MpPHR3		transcription factor, GARP		Mapoly0003s0147.1; Mp7g11330.1				Public
+MpGARP6	MpGARP6, MpHSR		transcription factor, GARP		Mapoly0119s0041.1; Mp4g15170.1				Public
+MpGARP7	MpGARP7, MpPCL/LUX		transcription factor, GARP		Mapoly0101s0068.1; Mp4g21220.1				Public
+MpGARP8	MpGARP8, MpGLD		transcription factor, GARP		Mapoly0156s0007.1; Mp7g09740.1				Public
+MpGATA1	MpGATA1		transcription factor, GATA		Mapoly0005s0077.1; Mp1g05310.1				Public
+MpGATA2	MpGATA2		transcription factor, GATA		Mapoly0005s0212.1; Mp1g03950.1				Public
+MpGATA3	MpGATA3		transcription factor, GATA	X-linked	Mapoly0017s0009.1				Public
+MpGATA4	MpGATA4		transcription factor, GATA		Mapoly0074s0047.1; Mp7g03490.1				Public
+MpGATA5	MpGATA5		transcription factor, GATA		Mapoly0095s0046.1; Mp5g09130.1				Public
+MpGATA6	MpGATA6		transcription factor, GATA	Y-linked	MapolyY_B0021.1; MpVg00300.1				Public
+MpGCAM1	GEMMA CUP ASSOCIATED MYB1	MpR2R3-MYB10	GCAM1	GCAM1 gene is transcriptionally upregulated in gemma-cups and developing gemma comparing to the other parts of thallus.	Mapoly0034s0034; Mp6g04830	Yasui et al. Curr. Biol. 29(23):3987-3995 (2019).	31708390	10.1016/j.cub.2019.10.004	Published
+MpGEBP1	MpGeBP1		transcription factor, GeBP		Mapoly0002s0271.1; Mp1g26050.1				Public
+MpGEBP2	MpGeBP2		transcription factor, GeBP		Mapoly0078s0019.1; Mp5g00180.1				Public
+MpGEBP3	MpGeBP3		transcription factor, GeBP		Mapoly0078s0020.1; Mp5g00190.1				Public
+MpGEBP4	MpGeBP4		transcription factor, GeBP		Mapoly0168s0004.1; Mp2g25290.1				Public
+MpGH3A	GH3A		Auxin responsive protein	Genome paper Mapoly0053s0073	Mapoly0053s0073; Mp6g07600				Public
+MpGH3B	GH3B		Auxin responsive protein	Genome paper Mapoly0042s0030	Mapoly0042s0030; Mp2g14010				Public
+MpGI	GIGANTEA		Orthologue of GIGANTEA, circadian gene.	Knockout of either the GIGANTEA(GI) or FLAVIN-BINDING KELCH REPEAT F-BOX1 (FKF1) orthologue completely abolishes the long-day-dependent growth-phase transition in M. polymorpha. Overexpression of either gene promotes growth-phase transition, even under short-day conditions. Introduction of the GI orthologue partially rescues the late-flowering phenotype of the Arabidopsis thaliana gi mutant.	Mapoly0019s0145; Mp1g13750	Kubota et al. Nat. Commun. 5:3668 (2014).	24752248	10.1038/ncomms4668	Published
+MpGID1L1	GIBBERELLIN INSENSITIVE DWARF 1-LIKE 1		putative class I carboxyesterase	genome paper: Mapoly0001s0537	Mapoly0001s0537; Mp1g22010				Public
+MpGID1L2	GIBBERELLIN INSENSITIVE DWARF 1-LIKE 2		putative class I carboxyesterase	genome paper: Mapoly0003s0183	Mapoly0003s0183; Mp7g11710				Public
+MpGID1L3	GIBBERELLIN INSENSITIVE DWARF 1-LIKE 3		putative class I carboxyesterase	genome paper: Mapoly0003s0300	Mapoly0003s0300; Mp7g12920				Public
+MpGID1L4	GIBBERELLIN INSENSITIVE DWARF 1-LIKE 4		putative class I carboxyesterase	genome paper: Mapoly0013s0114	Mapoly0013s0114; Mp8g06780				Public
+MpGID1L5	GIBBERELLIN INSENSITIVE DWARF 1-LIKE 5		putative class I carboxyesterase	genome paper: Mapoly0013s0116	Mapoly0013s0116; Mp8g06760				Public
+MpGID1L6	GIBBERELLIN INSENSITIVE DWARF 1-LIKE 6		putative class I carboxyesterase	genome paper: Mapoly0026s0096; Mapoly0026s0098. Same protein product from two loci.	Mapoly0026s0096; Mp2g12730				Public
+MpGID1L6-2	GIBBERELLIN INSENSITIVE DWARF 1-LIKE 6		putative class I carboxyesterase	genome paper: Mapoly0026s0096; Mapoly0026s0098. Same protein product from two loci.	Mapoly0026s0098				Public
+MpGID1L7	GIBBERELLIN INSENSITIVE DWARF 1-LIKE 7		putative class I carboxyesterase	genome paper: Mapoly0055s0044	Mapoly0055s0044; Mp2g20050				Public
+MpGID1L8	GIBBERELLIN INSENSITIVE DWARF 1-LIKE 8		putative class I carboxyesterase	genome paper: Mapoly0133s0031	Mapoly0133s0031; Mp5g03560				Public
+MpGID2	GIBBERELLIN INSENSITIVE DWARF 2		F-box protein GIBBERELLIN INSENSITIVE DWARF 2	genome paper: Mapoly0043s0052	Mapoly0043s0052; Mp1g06600				Public
+MpGIF	MpGIF		transcription factor, GIF		Mapoly0047s0121.1; Mp6g14670.1				Public
+MpGLR	GLUTAMATE RECEPTOR-LIKE CHANNEL		calcium channel GLR						Public
+MpGOS11	Golgi SNARE 11		Ortholog of Arabidopsis GOS11 gene	The transcript is detected in thalli, antheridiophores, archegoniophores, and sporelings. Citrine-tagged MpGOS11 driven by the cauliflower mosaic virus 35S promoter is localized to the Golgi apparatus.	Mapoly0001s0245; Mp1g19070	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpGOS12	Golgi SNARE 12		Ortholog of Arabidopsis GOS12 gene	Two splicing variants are detected from this locus. Citrine-tagged MpGOS12 driven by the cauliflower mosaic virus 35S promoter is localized to the Golgi apparatus.	Mapoly0016s0161; Mp6g11210	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpGRAS1	MpGRAS1		transcription factor, GRAS		Mapoly0001s0385.1; Mp1g20490.1				Public
+MpGRAS10	MpGRAS10		transcription factor, GRAS		Mapoly1576s0001.1; Mp8g03980.1				Public
+MpGRAS11	MpGRAS11		transcription factor, GRAS		Mapoly0083s0007.1; Mp8g13140.1				Public
+MpGRAS2	MpGRAS2		transcription factor, GRAS		Mapoly0003s0271.1; Mp7g12630.1				Public
+MpGRAS3	MpGRAS3		transcription factor, GRAS		Mapoly0014s0183.1; Mp1g10440.1				Public
+MpGRAS4	MpGRAS4		transcription factor, GRAS		Mapoly0031s0041.1; Mp2g03850.1				Public
+MpGRAS5	MpGRAS5		transcription factor, GRAS		Mapoly0047s0034.1; Mp6g13820.1				Public
+MpGRAS6	MpGRAS6		transcription factor, GRAS		Mapoly0058s0044.1; Mp5g20660.1				Public
+MpGRAS7	MpGRAS7		transcription factor, GRAS		Mapoly0064s0023.1; Mp8g01770.1				Public
+MpGRAS8	MpGRAS8		transcription factor, GRAS		Mapoly0065s0089.1; Mp1g22880.1				Public
+MpGRAS9	MpGRAS9		transcription factor, GRAS		Mapoly0194s0011.1; Mp5g21990.1				Public
+MpGRF	MpGRF		transcription factor, GRF		Mapoly1350s0001.1; Mp8g16900.1				Public
+MpGTG	MpGTG		G protein–coupled receptor-type G proteins that function as abscisic acid receptor		Mapoly0094s0006.1; Mp2g17380.1				Public
+MpHA1	Plasma membrane H+-ATPase 1		Plasma membrane H+-ATPase	Genome paper MpHA1: Mapoly0019s0140.1 MpHA2: Mapoly0089s0056.1 MpHA3: Mapoly0080s0002.1 MpHA4: Mapoly0050s0045.1 MpHA5: Mapoly0050s0042.1 MpHA6: Mapoly0011s0217.1 MpHA7: Mapoly0100s0016.1 MpHA8: Mapoly0125s0027.1	Mapoly0019s0140.1; Mp1g13700.1	Okumura et al., Plant Physiol. 159, 826-834 (2012)	PMID: 22496511	doi:10.1104/pp.112.195537	Published
+MpHA2	Plasma membrane H+-ATPase 2		Plasma membrane H+-ATPase	Genome paper MpHA1: Mapoly0019s0140.1 MpHA2: Mapoly0089s0056.1 MpHA3: Mapoly0080s0002.1 MpHA4: Mapoly0050s0045.1 MpHA5: Mapoly0050s0042.1 MpHA6: Mapoly0011s0217.1 MpHA7: Mapoly0100s0016.1 MpHA8: Mapoly0125s0027.1	Mapoly0089s0056.1; Mp3g21600.1	Okumura et al., Plant Physiol. 159, 826-834 (2012)	PMID: 22496511	doi:10.1104/pp.112.195537	Published
+MpHA3	Plasma membrane H+-ATPase 3		Plasma membrane H+-ATPase	Genome paper MpHA1: Mapoly0019s0140.1 MpHA2: Mapoly0089s0056.1 MpHA3: Mapoly0080s0002.1 MpHA4: Mapoly0050s0045.1 MpHA5: Mapoly0050s0042.1 MpHA6: Mapoly0011s0217.1 MpHA7: Mapoly0100s0016.1 MpHA8: Mapoly0125s0027.1	Mapoly0080s0002.1; Mp4g02970.1	Okumura et al., Plant Physiol. 159, 826-834 (2012)	PMID: 22496511	doi:10.1104/pp.112.195537	Published
+MpHA4	Plasma membrane H+-ATPase 4		Plasma membrane H+-ATPase	Genome paper MpHA1: Mapoly0019s0140.1 MpHA2: Mapoly0089s0056.1 MpHA3: Mapoly0080s0002.1 MpHA4: Mapoly0050s0045.1 MpHA5: Mapoly0050s0042.1 MpHA6: Mapoly0011s0217.1 MpHA7: Mapoly0100s0016.1 MpHA8: Mapoly0125s0027.1	Mapoly0050s0045.1; Mp3g12410.1	Okumura et al., Plant Physiol. 159, 826-834 (2012)	PMID: 22496511	doi:10.1104/pp.112.195537	Published
+MpHA5	Plasma membrane H+-ATPase 5		Plasma membrane H+-ATPase	Genome paper MpHA1: Mapoly0019s0140.1 MpHA2: Mapoly0089s0056.1 MpHA3: Mapoly0080s0002.1 MpHA4: Mapoly0050s0045.1 MpHA5: Mapoly0050s0042.1 MpHA6: Mapoly0011s0217.1 MpHA7: Mapoly0100s0016.1 MpHA8: Mapoly0125s0027.1	Mapoly0050s0042.1; Mp3g12380.1	Okumura et al., Plant Physiol. 159, 826-834 (2012)	PMID: 22496511	doi:10.1104/pp.112.195537	Published
+MpHA6	Plasma membrane H+-ATPase 6		Plasma membrane H+-ATPase	Genome paper MpHA1: Mapoly0019s0140.1 MpHA2: Mapoly0089s0056.1 MpHA3: Mapoly0080s0002.1 MpHA4: Mapoly0050s0045.1 MpHA5: Mapoly0050s0042.1 MpHA6: Mapoly0011s0217.1 MpHA7: Mapoly0100s0016.1 MpHA8: Mapoly0125s0027.1	Mapoly0011s0217.1; Mp4g12350.1	Okumura et al., Plant Physiol. 159, 826-834 (2012)	PMID: 22496511	doi:10.1104/pp.112.195537	Published
+MpHA7	Plasma membrane H+-ATPase 7		Plasma membrane H+-ATPase	Genome paper MpHA1: Mapoly0019s0140.1 MpHA2: Mapoly0089s0056.1 MpHA3: Mapoly0080s0002.1 MpHA4: Mapoly0050s0045.1 MpHA5: Mapoly0050s0042.1 MpHA6: Mapoly0011s0217.1 MpHA7: Mapoly0100s0016.1 MpHA8: Mapoly0125s0027.1	Mapoly0100s0016.1; Mp3g25030.1	Okumura et al., Plant Physiol. 159, 826-834 (2012)	PMID: 22496511	doi:10.1104/pp.112.195537	Published
+MpHA8	Plasma membrane H+-ATPase 8		Plasma membrane H+-ATPase	Genome paper MpHA1: Mapoly0019s0140.1 MpHA2: Mapoly0089s0056.1 MpHA3: Mapoly0080s0002.1 MpHA4: Mapoly0050s0045.1 MpHA5: Mapoly0050s0042.1 MpHA6: Mapoly0011s0217.1 MpHA7: Mapoly0100s0016.1 MpHA8: Mapoly0125s0027.1	Mapoly0125s0027.1; Mp4g06820.1	Okumura et al., Plant Physiol. 159, 826-834 (2012)	PMID: 22496511	doi:10.1104/pp.112.195537	Published
+MpHA9	Plasma membrane H+-ATPase 9		Plasma membrane H+-ATPase	Genome paper MpHA9: Mapoly0158s0038.1 MpHA10: Mapoly0006s0247.1 MpHA11: Mapoly0006s0246.1 MpHA12: Mapoly0006s0248.1 MpHA13: Mapoly0006s0245.1 MpHA14: Mapoly0050s0043.1 MpHA15: Mapoly0050s0047.1 MpHA16: Mapoly0004s0165.1 MpHA17: Mapoly0049s0123.1 MpHA18: Mapoly0050s0044.1 MpHA19: Mapoly0031s0155.1	Mapoly0158s0038.1; Mp2g09680.1				Public
+MpHA10	Plasma membrane H+-ATPase 10		Plasma membrane H+-ATPase	Genome paper MpHA9: Mapoly0158s0038.1 MpHA10: Mapoly0006s0247.1 MpHA11: Mapoly0006s0246.1 MpHA12: Mapoly0006s0248.1 MpHA13: Mapoly0006s0245.1 MpHA14: Mapoly0050s0043.1 MpHA15: Mapoly0050s0047.1 MpHA16: Mapoly0004s0165.1 MpHA17: Mapoly0049s0123.1 MpHA18: Mapoly0050s0044.1 MpHA19: Mapoly0031s0155.1	Mapoly0006s0247.1				Public
+MpHA11	Plasma membrane H+-ATPase 11		Plasma membrane H+-ATPase	Genome paper MpHA9: Mapoly0158s0038.1 MpHA10: Mapoly0006s0247.1 MpHA11: Mapoly0006s0246.1 MpHA12: Mapoly0006s0248.1 MpHA13: Mapoly0006s0245.1 MpHA14: Mapoly0050s0043.1 MpHA15: Mapoly0050s0047.1 MpHA16: Mapoly0004s0165.1 MpHA17: Mapoly0049s0123.1 MpHA18: Mapoly0050s0044.1 MpHA19: Mapoly0031s0155.1	Mapoly0006s0246.1; Mp3g07700.1				Public
+MpHA12	Plasma membrane H+-ATPase 12		Plasma membrane H+-ATPase	Genome paper MpHA9: Mapoly0158s0038.1 MpHA10: Mapoly0006s0247.1 MpHA11: Mapoly0006s0246.1 MpHA12: Mapoly0006s0248.1 MpHA13: Mapoly0006s0245.1 MpHA14: Mapoly0050s0043.1 MpHA15: Mapoly0050s0047.1 MpHA16: Mapoly0004s0165.1 MpHA17: Mapoly0049s0123.1 MpHA18: Mapoly0050s0044.1 MpHA19: Mapoly0031s0155.1	Mapoly0006s0248.1; Mp3g07710.1				Public
+MpHA13	Plasma membrane H+-ATPase 13		Plasma membrane H+-ATPase	Genome paper MpHA9: Mapoly0158s0038.1 MpHA10: Mapoly0006s0247.1 MpHA11: Mapoly0006s0246.1 MpHA12: Mapoly0006s0248.1 MpHA13: Mapoly0006s0245.1 MpHA14: Mapoly0050s0043.1 MpHA15: Mapoly0050s0047.1 MpHA16: Mapoly0004s0165.1 MpHA17: Mapoly0049s0123.1 MpHA18: Mapoly0050s0044.1 MpHA19: Mapoly0031s0155.1	Mapoly0006s0245.1; Mp3g07690.1				Public
+MpHA14	Plasma membrane H+-ATPase 14		Plasma membrane H+-ATPase	Genome paper MpHA9: Mapoly0158s0038.1 MpHA10: Mapoly0006s0247.1 MpHA11: Mapoly0006s0246.1 MpHA12: Mapoly0006s0248.1 MpHA13: Mapoly0006s0245.1 MpHA14: Mapoly0050s0043.1 MpHA15: Mapoly0050s0047.1 MpHA16: Mapoly0004s0165.1 MpHA17: Mapoly0049s0123.1 MpHA18: Mapoly0050s0044.1 MpHA19: Mapoly0031s0155.1	Mapoly0050s0043.1; Mp3g12390.1				Public
+MpHA15	Plasma membrane H+-ATPase 15		Plasma membrane H+-ATPase	Genome paper MpHA9: Mapoly0158s0038.1 MpHA10: Mapoly0006s0247.1 MpHA11: Mapoly0006s0246.1 MpHA12: Mapoly0006s0248.1 MpHA13: Mapoly0006s0245.1 MpHA14: Mapoly0050s0043.1 MpHA15: Mapoly0050s0047.1 MpHA16: Mapoly0004s0165.1 MpHA17: Mapoly0049s0123.1 MpHA18: Mapoly0050s0044.1 MpHA19: Mapoly0031s0155.1	Mapoly0050s0047.1; Mp3g12440.1				Public
+MpHA16	Plasma membrane H+-ATPase 16		Plasma membrane H+-ATPase	Genome paper MpHA9: Mapoly0158s0038.1 MpHA10: Mapoly0006s0247.1 MpHA11: Mapoly0006s0246.1 MpHA12: Mapoly0006s0248.1 MpHA13: Mapoly0006s0245.1 MpHA14: Mapoly0050s0043.1 MpHA15: Mapoly0050s0047.1 MpHA16: Mapoly0004s0165.1 MpHA17: Mapoly0049s0123.1 MpHA18: Mapoly0050s0044.1 MpHA19: Mapoly0031s0155.1	Mapoly0004s0165.1; Mp3g15070.1				Public
+MpHA17	Plasma membrane H+-ATPase 17		Plasma membrane H+-ATPase	Genome paper MpHA9: Mapoly0158s0038.1 MpHA10: Mapoly0006s0247.1 MpHA11: Mapoly0006s0246.1 MpHA12: Mapoly0006s0248.1 MpHA13: Mapoly0006s0245.1 MpHA14: Mapoly0050s0043.1 MpHA15: Mapoly0050s0047.1 MpHA16: Mapoly0004s0165.1 MpHA17: Mapoly0049s0123.1 MpHA18: Mapoly0050s0044.1 MpHA19: Mapoly0031s0155.1	Mapoly0049s0123.1; Mp3g19090.1				Public
+MpHA18	Plasma membrane H+-ATPase 18		Plasma membrane H+-ATPase	Genome paper MpHA9: Mapoly0158s0038.1 MpHA10: Mapoly0006s0247.1 MpHA11: Mapoly0006s0246.1 MpHA12: Mapoly0006s0248.1 MpHA13: Mapoly0006s0245.1 MpHA14: Mapoly0050s0043.1 MpHA15: Mapoly0050s0047.1 MpHA16: Mapoly0004s0165.1 MpHA17: Mapoly0049s0123.1 MpHA18: Mapoly0050s0044.1 MpHA19: Mapoly0031s0155.1	Mapoly0050s0044.1; Mp3g12400.1				Public
+MpHA19	Plasma membrane H+-ATPase 19		Plasma membrane H+-ATPase	Genome paper MpHA9: Mapoly0158s0038.1 MpHA10: Mapoly0006s0247.1 MpHA11: Mapoly0006s0246.1 MpHA12: Mapoly0006s0248.1 MpHA13: Mapoly0006s0245.1 MpHA14: Mapoly0050s0043.1 MpHA15: Mapoly0050s0047.1 MpHA16: Mapoly0004s0165.1 MpHA17: Mapoly0049s0123.1 MpHA18: Mapoly0050s0044.1 MpHA19: Mapoly0031s0155.1	Mapoly0031s0155.1; Mp2g05000.1				Public
+MpHAE	HAESA		Leucine-rich receptor-like protein kinase family protein	Genome paper Mapoly0075s0046 MpHAE	Mapoly0075s0046; Mp2g02850				Public
+MpHD1	MpHD1, MpDDT1		transcription factor, HD		Mapoly0005s0159.1; Mp1g04480.1				Public
+MpHD10	MpHD10, MpLD		transcription factor, HD		Mapoly0032s0010.1; Mp5g13160.1				Public
+MpHD11	MpHD11, MpNDX		transcription factor, HD		Mapoly0033s0004.1; Mp1g16560.1				Public
+MpHD12	MpHD12, MpC3HDZ		transcription factor, HD		Mapoly0061s0107.1; Mp1g24140.1				Public
+MpHD13	MpHD13, MpPLINC		transcription factor, HD		Mapoly0063s0098.1; Mp8g08190.1				Public
+MpHD14	MpHD14, MpC2HDZ		transcription factor, HD		Mapoly0069s0069.1; Mp2g24200.1				Public
+MpHD15	MpHD15, MpPHD		transcription factor, HD		Mapoly0080s0093.1; Mp4g02060.1				Public
+MpHD16	MpHD16		transcription factor, HD		Mapoly0093s0028.1; Mp5g11060.1				Public
+MpHD17	MpHD17, MpBELLa		transcription factor, HD		Mapoly0132s0008.1; Mp4g09650.1				Public
+MpHD18	MpHD18, MpC4HDZ		transcription factor, HD		Mapoly0156s0012.1; Mp7g09710.1				Public
+MpHD19	MpHD19, MpKNOX1a		transcription factor, HD		Mapoly0174s0007.1; Mp4g12450.1				Public
+MpHD2	MpHD2, MpSAWADEE		transcription factor, HD		Mapoly0006s0154.1; Mp3g06860.1				Public
+MpHD20	MpHD20, MpKNOX1		transcription factor, HD		Mapoly0175s0020.1; Mp5g01600.1				Public
+MpHD21	MpHD21, MpKNOX2		transcription factor, HD		Mapoly0194s0001.1; Mp7g05320.1				Public
+MpHD22	MpHD22, MpBELLb		transcription factor, HD		Mapoly0213s0014.1; Mp8g18310.1				Public
+MpHD3	MpHD3, C1HDZ		transcription factor, HD		Mapoly0007s0221.1; Mp3g02320.1				Public
+MpHD4	MpHD4		transcription factor, HD		Mapoly0012s0090.1; Mp8g02970.1				Public
+MpHD5	MpHD5		transcription factor, HD		Mapoly0013s0027.1; Mp8g07680.1				Public
+MpHD6	MpHD6, MpWOX		transcription factor, HD		Mapoly0014s0060.1; Mp1g11660.1				Public
+MpHD7	MpHD7, MpKNOX1b		transcription factor, HD		Mapoly0023s0081.1; Mp2g11140.1				Public
+MpHD8	MpHD8, MpDDT2		transcription factor, HD		Mapoly0029s0015.1; Mp1g02320.1				Public
+MpHD9	MpHD9, MpPINTOX		transcription factor, HD		Mapoly0029s0145.1; Mp1g01010.1				Public
+MpHMGBOX1	MpHMGbox1		transcription factor, HMG-box		Mapoly0013s0048.1; Mp8g07450.1				Public
+MpHMGBOX2	MpHMGbox2		transcription factor, HMG-box		Mapoly0026s0138.1; Mp2g12330.1				Public
+MpHMGBOX3	MpHMGbox3		transcription factor, HMG-box		Mapoly0030s0009.1; Mp8g16760.1				Public
+MpHMGBOX4	MpHMGbox4		transcription factor, HMG-box		Mapoly0031s0059.1; Mp2g04030.1				Public
+MpHMGBOX5	MpHMGbox5		transcription factor, HMG-box		Mapoly0051s0025.1; Mp7g16870.1				Public
+MpHSF1	MpHSF1		transcription factor, HSF		Mapoly0011s0205.1; Mp4g12230.1				Public
+MpHSF2	MpHSF2		transcription factor, HSF	X-linked	Mapoly0018s0001.1				Public
+MpHSF3	MpHSF3		transcription factor, HSF	Y-linked	MapolyY_B0005.1; MpVg00470.1				Public
+MpHY5	LONG HYPOCOTYL 5		A bZIP transcription factor						Public
+MpIAA	AUXIN_INDOLE-3-ACETIC ACID		co-repressor, sharing similarity to Arabidopsis AUX/IAAs.	Expression of a dominant allele of MpIAA with mutations in its putative degron sequence conferred an auxin resistant phenotype and repressed auxin-responses.	Mapoly0034s0017; Mp6g05000	Kato et al. PLoS Genet. 11, e1005084 (2015).; Flores-Sandval et al, PLoS Genet. 11, e1005207 (2015).	26020919; 26020649	10.1371/journal.pgen.1005084; 10.1371/journal.pgen.1005207	Published
+MpIDA1	INFLORESCENCE DEFICIENT IN ABSCISSION1		Putative membrane lipoprotein	Genome paper Mapoly0251s0002.1	Mapoly0251s0002.1; Mp7g02930.1				Public
+MpIDA2	INFLORESCENCE DEFICIENT IN ABSCISSION2		Putative membrane lipoprotein	Genome paper Mapoly0003s0117.1	Mapoly0003s0117.1; Mp7g11030.1				Public
+MpIDA3	INFLORESCENCE DEFICIENT IN ABSCISSION3		Putative membrane lipoprotein	Genome paper Mapoly0085s0063.1	Mapoly0085s0063.1; Mp2g09090.1				Public
+MpIDA4	INFLORESCENCE DEFICIENT IN ABSCISSION 4		secretory peptide IDA4	Genome paper Mapoly0003s0111.1	Mapoly0003s0111.1; Mp7g10970.1				Public
+MpIDDL1	MpIDDL1		transcription factor, IDD-related		Mapoly0013s0172.1; Mp8g06180.1				Public
+MpIDDL2	MpIDDL2		transcription factor, IDD-related		Mapoly0033s0095.1; Mp1g15660.1				Public
+MpIDDL3	MpIDDL3		transcription factor, IDD-related		Mapoly0058s0031.1; Mp5g20530.1				Public
+MpIDDL4	MpIDDL4		transcription factor, IDD-related		Mapoly0076s0039.1; Mp7g07550.1				Public
+MpIDDL5	MpIDDL5		transcription factor, IDD-related		Mapoly0083s0069.1; Mp8g12510.1				Public
+MpIDDL6	MpIDDL6		transcription factor, IDD-related		Mapoly0096s0050.1; Mp1g09500.1				Public
+MpIRE	incomplete root hair elongation		AGC kinase IRE						Public
+MpJAZ	Jasmonate-ZIM domain protein		Repressor of Jasmonate signalling	Homologue of Arabidopsis JAZ proteins containing a ZIM/TIFY and Jas domains	Mapoly0097s0021; Mp6g06230				Public
+MpKAC	KINESIN-LIKE PROTEIN FOR ACTIN-BASED CHLOROPLAST MOVEMENT		Kinesin-like protein for chloroplast movement						Public
+MpKAOL1	ENT-KAURENOIC ACID OXYDASE-LIKE 1		putative ent-kaurenoic acid oxidase, CYP88 family member	genome paper: Mapoly0020s0131	Mapoly0020s0131; Mp4g23680				Public
+MpKAOL2	ENT-KAURENOIC ACID OXIDASE-LIKE 2		putative ent-kaurenoic acid oxidase, CYP88 family member	genome paper: Mapoly0002s0331	Mapoly0002s0331; Mp1g25410				Public
+MpKAOL3	ENT-KAURENOIC ACID OXIDASE-LIKE 3		putative ent-kaurenoic acid oxidase, CYP88 family member	genome paper: Mapoly0023s0011	Mapoly0023s0011; Mp2g10420				Public
+MpKNOX1	CLASS I KNOTTED1-LIKE HOMEOBOX GENE		Homeodomain protein	Genome paper KNOX1: Mapoly0175s0020 KNOX1a: Mapoly0174s0007 (lacks homeodomain) KNOX1b: Mapoly0023s0081 (lacks homeodomain)	Mapoly0175s0020; Mp5g01600				Public
+MpKNOX1a	CLASS I KNOTTED1-LIKE HOMEOBOX GENE		Homeodomain protein  (lacks homeodomain)	Genome paper KNOX1: Mapoly0175s0020 KNOX1a: Mapoly0174s0007 (lacks homeodomain) KNOX1b: Mapoly0023s0081 (lacks homeodomain)	Mapoly0174s0007; Mp4g12450				Public
+MpKNOX1b	CLASS I KNOTTED1-LIKE HOMEOBOX GENE		Homeodomain protein  (lacks homeodomain)	Genome paper KNOX1: Mapoly0175s0020 KNOX1a: Mapoly0174s0007 (lacks homeodomain) KNOX1b: Mapoly0023s0081 (lacks homeodomain)	Mapoly0023s0081; Mp2g11140				Public
+MpKNOX2	CLASS II KNOTTED1-LIKE HOMEOBOX GENE		Homeodomain protein	Genome paper Mapoly0194s0001	Mapoly0194s0001; Mp7g05320				Public
+MpKOL1	ENT-KAURENE OXIDASE-LIKE 1		putative ent-kaurene oxidase, CYP701 family member	genome paper: Mapoly0140s0010	Mapoly0140s0010; Mp3g18320				Public
+MpKOL2	ENT-KAURENE OXIDASE-LIKE 2		putative ent-kaurene oxidase, CYP701 family member	genome paper: Mapoly0130s0003	Mapoly0130s0003; Mp2g01950				Public
+MpKOL3	ENT-KAURENE OXIDASE-LIKE2		putative ent-kaurene oxidase, CYP701 family member	genome paper: Mapoly0130s0002	Mapoly0130s0002; Mp2g01940				Public
+MpLD	LUMINIDEPENDENS		Homeodomain protein	Genome paper Mapoly0032s0010	Mapoly0032s0010; Mp5g13160				Public
+MpLFY	LEAFY		transcription factor, ortholog of Arabidopsis thaliana LFY						Public
+MpLIM1	MpLIM1		transcription factor, LIM-domain		Mapoly0005s0280.1; Mp1g03270.1				Public
+MpLIM2	MpLIM2		transcription factor, LIM-domain		Mapoly0030s0035.1; Mp8g17020.1				Public
+MpLIM3	MpLIM3		transcription factor, LIM-domain		Mapoly0080s0053.1; Mp4g02460.1				Public
+MpLOVA	LOV PROTEIN ON AUTOSOMAL CHROMOSOME		putative blue-light receptor						Public
+MpLOVX	LOV PROTEIN ON CHROMOSOME X		putative blue-light receptor			Yamato et al., Proc. Natl. Acad. Sci. USA 104, 6472-6477 (2007).	PMID: 17395720	doi:10.1073/pnas.0609054104	Published
+MpLOVY	LOV PROTEIN ON CHROMOSOME Y		putative blue-light receptor			Yamato et al., Proc. Natl. Acad. Sci. USA 104, 6472-6477 (2007).	PMID: 17395720	doi:10.1073/pnas.0609054104	Published
+MpLOX1	Lipoxygenase 1		Lipoxygenase	Mapoly0028s0085.1	Mapoly0028s0085.1; Mp2g00660.1	Kanamoto et al., Phytochemistry. 77, 70-78 (2012).	PMID: 22425284	doi:10.1016/j.phytochem.2012.02.009	Published
+MpLOX10	Lipoxygenase 10		Lipoxygenase	Mapoly0063s0014.1	Mapoly0063s0014.1; Mp8g09050.1				Public
+MpLOX11	Lipoxygenase 11		Lipoxygenase	Mapoly0063s0050.1	Mapoly0063s0050.1; Mp8g08690.1				Public
+MpLOX12	Lipoxygenase 12		Lipoxygenase	Mapoly0064s0034.1	Mapoly0064s0034.1; Mp8g01650.1				Public
+MpLOX13	Lipoxygenase 13		Lipoxygenase	Mapoly0079s0056.1	Mapoly0079s0056.1; Mp8g15570.1				Public
+MpLOX14	Lipoxygenase 14		Lipoxygenase	Mapoly0083s0028.1	Mapoly0083s0028.1; Mp8g12930.1				Public
+MpLOX15	Lipoxygenase 15		Lipoxygenase	Mapoly0191s0015.1	Mapoly0191s0015.1; Mp2g23370.1				Public
+MpLOX16	Lipoxygenase 16		Lipoxygenase	Mapoly0420s0001.1	Mapoly0420s0001.1; Mp2g16000.1				Public
+MpLOX2	Lipoxygenase 2		Lipoxygenase	Mapoly0191s0014.1	Mapoly0191s0014.1; Mp2g23380.1	Kanamoto et al., Phytochemistry. 77, 70-78 (2012).	PMID: 22425284	doi:10.1016/j.phytochem.2012.02.009	Published
+MpLOX3	Lipoxygenase 3		Lipoxygenase	Mapoly0006s0130.1	Mapoly0006s0130.1; Mp3g06610.1	Kanamoto et al., Phytochemistry. 77, 70-78 (2012).	PMID: 22425284	doi:10.1016/j.phytochem.2012.02.009	Published
+MpLOX4	Lipoxygenase 4		Lipoxygenase	Mapoly0106s0031.1	Mapoly0106s0031.1; Mp5g21680.1				Public
+MpLOX5	Lipoxygenase 5		Lipoxygenase	Mapoly0001s0529.1	Mapoly0001s0529.1; Mp1g21930.1				Public
+MpLOX6	Lipoxygenase 6		Lipoxygenase	Mapoly0023s0182.1	Mapoly0023s0182.1; Mp2g12180.1				Public
+MpLOX7	Lipoxygenase 7		Lipoxygenase	Mapoly0026s0145.1	Mapoly0026s0145.1; Mp2g12250.1				Public
+MpLOX8	Lipoxygenase 8 (Pseudogene)		Lipoxygenase	Mapoly0026s0148.1	Mapoly0026s0148.1; Mp2g12220.1				Public
+MpLOX9	Lipoxygenase 9		Lipoxygenase	Mapoly0055s0019.1	Mapoly0055s0019.1; Mp2g20300.1				Public
+MpMADS1	MIKC-type MADS-box gene1		MIKC-type MADS-box protein1	Genome paper MADS1: Mapoly0174s0011.1	Mapoly0174s0011.1; Mp4g12490.1	in prep.			Public
+MpMADS2	MIKC-type MADS-box gene2		MIKC-type MADS-box protein2	Genome paper MADS2: Mapoly0011s0161.1	Mapoly0011s0161.1; Mp4g11760.1	in prep.			Public
+MpMCA1	MECHANOSENSITIVE CHANNEL IN ARABIDOPSIS-LIKE		calcium-permeable mechanosensitive channel			Under preparation			Public
+MpMEMB1	Membrin 1		Ortholog of Arabidopsis MEMB1 genes	The transcript is detected in thalli, antheridiophores, archegoniophores, and sporelings. Citrine-tagged MpMEMB1 driven by the cauliflower mosaic virus 35S promoter is localized to the Golgi apparatus.	Mapoly0001s0234; Mp1g18960	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpMOR1	MICROTUBULE ORGANIZATION 1		Member of the MAP215 family of microtubule-associated proteins						Public
+MpMS1	MALE STERILE1		PHD-finger transcription factor, ortholog of Arabidopsis thaliana MS1			Higo et al., Plant Cell Physiol. 57, 325-338 (2016). PMID: 26858289	PMID: 26858289		Published
+MpMTPSL	terpene synthase		Microbial terpene synthase-like						Public
+MpMYCX1	MYCX		MYC transcription factor	AtMYC2 orthologue in Chromosome X	Mapoly0018s0018				Public
+MpMYCX2	MYCX		MYC transcription factor	AtMYC2 orthologue in Chromosome X	Mapoly0018s0019				Public
+MpMYCY	MYCY		MYC transcription factor	AtMYC2 orthologue in chromosome Y	MapolyY_B0018; MpVg00340				Public
+MpMYOVIII	MYOSIN VIII		myosin class VIII						Public
+MpMYOXI	MYOSIN XI		myosin class XI						Public
+MpNAC1	MpNAC1		transcription factor, NAC		Mapoly0015s0058.1; Mp2g07720.1				Public
+MpNAC2	MpNAC2		transcription factor, NAC		Mapoly0035s0046.1				Public
+MpNAC3	MpNAC3		transcription factor, NAC		Mapoly0011s0176.1; Mp4g11910.1				Public
+MpNAC4	MpNAC4		transcription factor, NAC		Mapoly0020s0051.1; Mp4g22890.1				Public
+MpNAC5	MpNAC5		transcription factor, NAC		Mapoly0091s0063.1; Mp6g20920.1				Public
+MpNAC6	MpNAC6		transcription factor, NAC		Mapoly0175s0015.1; Mp5g01530.1				Public
+MpNAC7	MpNAC7		transcription factor, NAC		Mapoly0035s0049.1; Mp6g02620.1				Public
+MpNAC8	MpNAC8		transcription factor, NAC		Mapoly0035s0054.1; Mp6g02670.1				Public
+MpNAC9	MpNAC9		transcription factor, NAC		Mapoly0086s0046.1; Mp5g08410.1				Public
+MpNCED	MpNCED		9-cis-epoxycarotenoid dioxigenase		Mapoly0015s0066.1; Mp2g07800.1				Public
+MpNCH1	NRL PROTEIN FOR CHLOROPLAST MOVEMENT 1		NPH3/RPT2-like (NRL) protein for chloroplast accumulation response			In preparation			Public
+MpNDR1	nuclear Dbf2-related kinase 1		AGC kinase NDR1						Public
+MpNDR2	nuclear Dbf2-related kinase 2		AGC kinase NDR2						Public
+MpNDX	NODULIN HOMEOBOX		Homeodomain protein	Genome paper Mapoly0033s0004	Mapoly0033s0004; Mp1g16560				Public
+MpNFX1-1	MpNFX1-1		transcription factor, NF-X1		Mapoly0036s0109.1; Mp1g08660.1				Public
+MpNFX1-2	MpNFX1-2		transcription factor, NF-X1		Mapoly0154s0047.1; Mp8g16170.1				Public
+MpNIN/NLP	NIN-like protein		RWP-RK domain containing protein of the NIN-like protein clade	Mapoly0083s0040	Mapoly0083s0040; Mp8g12800	Koi et al. Cur. Biol. 26, 1775-1781 (2016); Rövekamp et al., Curr. Biol. 26, 1782-1789 (2016)			Published
+MpNINJA	Novel Interactor of JAZ		NINJA	Orthologue of AtNINJA	Mapoly0005s0166; Mp1g04410				Public
+MpNOP1	NOPPERABO1		Plant U-box E3 Ubiquitin Ligase NOP1	NOP1 has an essential role in schizogenous intercellular space formation in Marchantia polymorpha.NOP1 encodes a Plant U-box (PUB) E3 ubiquitin ligase carrying tandem ARMADILLO (ARM) repeats in the C terminus. An in vitro ubiquitination assay indicated that the NOP1 protein possesses E3 ubiquitin ligase activity in a U-box-dependent manner. Confocal microscopy and biochemical analysis showed that NOP1 was localized to the plasma membrane.	Mapoly0008s0036; Mp8g11800	Ishizaki and Mizutani et al, Plant Cell 25, 4075-4084 (2013). 	24170128	10.1105/tpc.113.117051	Published
+MpNPC	NRL PROTEIN of CRYPTOGAM		NPH3/RPT2-like (NRL) protein						Public
+MpNPE	NRL PROTEIN OF EMBRYOPHYTE		NPH3/RPT2-like (NRL) protein			In preparation			Public
+MpNPH3	NON-PHOTOTROPIC HYPOCOTYL 3		NPH3/RPT2-like (NRL) protein						Public
+MpNPS	NRL PROTEIN IN SPOROPHYTE		NPH3/RPT2-like (NRL) protein						Public
+MpNPSN1	Novel plant SNARE 1		Ortholog of Arabidopsis NPSN1 genes	The transcript is detected in thalli, antheridiophores, archegoniophores, and sporelings. Citrine-tagged MpNPSN1 driven by the cauliflower mosaic virus 35S promoter is localized to the plasma membrane.	Mapoly0031s0037; Mp2g03810	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpNPT	NRL PROTEIN FOR THALLUS DEVELOPMENT		NPH3/RPT2-like (NRL) protein	Formerly "NCH2"					Public
+MpNPY	NAKED PINS IN YUC MUTANTS 1-LIKE		NPH3/RPT2-like (NRL) protein			Under preparation			Public
+MpPDK1	3-phosphoinositide-dependent protein kinase		AGC kinase PDK1						Public
+MpPHD	PHD		Homeodomain protein	Genome paper Mapoly0080s0093	Mapoly0080s0093; Mp4g02060				Public
+MpPHOT	PHOTOTROPIN		blue-light receptor PHOTOTROPIN	Description=The plant-specific kinase phototropin (phot) is the blue-light receptor for chloroplast movements. The M. polymorpha genome encodes a single PHOT gene, MpPHOT, and its knockout line displayed none of the chloroplast photorelocation movements. Mpphot protein was localized on the plasma membrane and exhibited blue-light-dependent autophosphorylation both in vitro and in vivo.	Mapoly0133s0008; Mp5g03810	Komatsu et al., Plant Physiol. 166, 411-427 (2014). PMID: 25096976	PMID: 25096976		Published
+MpPHY	PHYTOCHROME		Red light/Far-red light receptor PHYTOCHROME		Mapoly0122s0054; Mp2g16090	Nishihama et al. J. Plant Res. 128:407-421 (2015).; Inoue et al. Plant Cell 28:1406-1421 (2016).	25841334; 27252292	10.1007/s10265-015-0724-9; 10.1105/tpc.15.01063	Published
+MpPIF	PHYTOCHROME INTERACTING FACTOR	MpBHLH6	phytochrome interacting bHLH transcription factor, PIF	Marchantia polymorpha has only one phytochrome gene, MpPHY, and only one PIF gene, MpPIF. These genes mediate typical low fluence responses, which are reversibly elicited by R and FR, and regulate gene expression.	Mapoly0039s0059; Mp3g17350	Inoue et al., Plant Cell 28, 1406-1421 (2016).	27252292	10.1105/tpc.15.01063	Published
+MpPIN1	PIN-FORMED 1		Encodes auxin efflux carrier	Genome paper MpPIN1: Mapoly0089s0050 MpPIN2: Mapoly0027s0112 MpPIN3: Mapoly0053s0108 MpPIN4: Mapoly0027s0111 MpPIN5: Mapoly0027s0108	Mapoly0089s0050; Mp3g21660				Public
+MpPIN2	PIN-FORMED 2		Encodes auxin efflux carrier	Genome paper MpPIN1: Mapoly0089s0050 MpPIN2: Mapoly0027s0112 MpPIN3: Mapoly0053s0108 MpPIN4: Mapoly0027s0111 MpPIN5: Mapoly0027s0108	Mapoly0027s0112; Mp5g05140				Public
+MpPIN3	PIN-FORMED 3		Encodes auxin efflux carrier	Genome paper MpPIN1: Mapoly0089s0050 MpPIN2: Mapoly0027s0112 MpPIN3: Mapoly0053s0108 MpPIN4: Mapoly0027s0111 MpPIN5: Mapoly0027s0108	Mapoly0053s0108; Mp6g07950				Public
+MpPIN4	PIN-FORMED 4		Encodes auxin efflux carrier	Genome paper MpPIN1: Mapoly0089s0050 MpPIN2: Mapoly0027s0112 MpPIN3: Mapoly0053s0108 MpPIN4: Mapoly0027s0111 MpPIN5: Mapoly0027s0108	Mapoly0027s0111; Mp5g05150				Public
+MpPIN5	PIN-FORMED 5		Encodes auxin efflux carrier	Genome paper MpPIN1: Mapoly0089s0050 MpPIN2: Mapoly0027s0112 MpPIN3: Mapoly0053s0108 MpPIN4: Mapoly0027s0111 MpPIN5: Mapoly0027s0108	Mapoly0027s0108; Mp5g05180				Public
+MpPINTOX	PINTOX		Homeodomain protein	Genome paper Mapoly0029s0145	Mapoly0029s0145; Mp1g01010				Public
+MpPKAC	cAMP-DEPENDENT PROTEIN KINASE CATALYTIC SUBUNIT		PKA catalytic subunit			In preparation			Public
+MpPKARA	cAMP-DEPENDENT PROTEIN KINASE REGULATORY SUBUNIT a		PKA regulatory subunit a			In preparation			Public
+MpPKARB	cAMP-DEPENDENT PROTEIN KINASE REGULATORY SUBUNIT b		PKA regulatory subunit b			In preparation			Public
+MpPKG	cGMP-DEPENDENT PROTEIN KINASE		cGMP-DEPENDENT PROTEIN KINASE			In preparation			Public
+MpPLINC	PLINC		Zinc finger class homeodomain	Genome paper Mapoly0063s0098	Mapoly0063s0098; Mp8g08190				Public
+MpPML	PLASTID MOVEMENT IMPAIRED-LIKE		C2 domain protein for chloroplast photorelocation movement			In preparation			Public
+MpPPP1	MpPPP1		transcription factor, PPP1		Mapoly0148s0001.1; Mp4g17170.1				Public
+MpPPR_1	Pentatricopeptide repeat protein PPR_1		Pentatricopeptide repeat proteins	Genome paper MpPPR_1: Mapoly0001s0055.1	Mapoly0001s0055.1; Mp1g17150.1				Public
+MpPPR_2	Pentatricopeptide repeat protein PPR_2		Pentatricopeptide repeat proteins	Genome paper MpPPR_2: Mapoly0001s0141.1	Mapoly0001s0141.1; Mp1g18030.1				Public
+MpPPR_3	Pentatricopeptide repeat protein PPR_3		Pentatricopeptide repeat proteins	Genome paper MpPPR_3: Mapoly0001s0500.1	Mapoly0001s0500.1; Mp1g21650.1				Public
+MpPPR_4	Pentatricopeptide repeat protein PPR_4		Pentatricopeptide repeat proteins	Genome paper MpPPR_4: Mapoly0001s0556.1	Mapoly0001s0556.1; Mp1g22180.1				Public
+MpPPR_5	Pentatricopeptide repeat protein PPR_5		Pentatricopeptide repeat proteins	Genome paper MpPPR_5: Mapoly0002s0014.1	Mapoly0002s0014.1; Mp1g28660.1				Public
+MpPPR_6	Pentatricopeptide repeat protein PPR_6		Pentatricopeptide repeat proteins	Genome paper MpPPR_6: Mapoly0002s0203.1	Mapoly0002s0203.1; Mp1g26750.1				Public
+MpPPR_7	Pentatricopeptide repeat protein PPR_7		Pentatricopeptide repeat proteins	Genome paper MpPPR_7: Mapoly0002s0313.1	Mapoly0002s0313.1; Mp1g25580.1				Public
+MpPPR_8	Pentatricopeptide repeat protein PPR_8		Pentatricopeptide repeat proteins	Genome paper MpPPR_8: Mapoly0003s0298.1	Mapoly0003s0298.1; Mp7g12900.1				Public
+MpPPR_9	Pentatricopeptide repeat protein PPR_9		Pentatricopeptide repeat proteins	Genome paper MpPPR_9: Mapoly0009s0070.1	Mapoly0009s0070.1; Mp7g13850.1				Public
+MpPPR_10	Pentatricopeptide repeat protein PPR_10		Pentatricopeptide repeat proteins	Genome paper MpPPR_10: Mapoly0009s0209.1	Mapoly0009s0209.1; Mp7g15250.1				Public
+MpPPR_11	Pentatricopeptide repeat protein PPR_11		Pentatricopeptide repeat proteins	Genome paper MpPPR_11: Mapoly0011s0128.1	Mapoly0011s0128.1; Mp4g11440.1				Public
+MpPPR_12	Pentatricopeptide repeat protein PPR_12		Pentatricopeptide repeat proteins	Genome paper MpPPR_12: Mapoly0012s0141.1	Mapoly0012s0141.1; Mp8g03500.1				Public
+MpPPR_13	Pentatricopeptide repeat protein PPR_13		Pentatricopeptide repeat proteins	Genome paper MpPPR_13: Mapoly0014s0054.1	Mapoly0014s0054.1; Mp1g11730.1				Public
+MpPPR_14	Pentatricopeptide repeat protein PPR_14		Pentatricopeptide repeat proteins	Genome paper MpPPR_14: Mapoly0015s0193.1	Mapoly0015s0193.1; Mp2g09100.1				Public
+MpPPR_15	Pentatricopeptide repeat protein PPR_15		Pentatricopeptide repeat proteins	Genome paper MpPPR_15: Mapoly0019s0056.1	Mapoly0019s0056.1; Mp1g12860.1				Public
+MpPPR_16	Pentatricopeptide repeat protein PPR_16		Pentatricopeptide repeat proteins	Genome paper MpPPR_16: Mapoly0019s0086.1	Mapoly0019s0086.1; Mp1g13160.1				Public
+MpPPR_17	Pentatricopeptide repeat protein PPR_17		Pentatricopeptide repeat proteins	Genome paper MpPPR_17: Mapoly0020s0110.1	Mapoly0020s0110.1; Mp4g23470.1				Public
+MpPPR_18	Pentatricopeptide repeat protein PPR_18		Pentatricopeptide repeat proteins	Genome paper MpPPR_18: Mapoly0022s0009.1	Mapoly0022s0009.1; Mp3g05190.1				Public
+MpPPR_19	Pentatricopeptide repeat protein PPR_19		Pentatricopeptide repeat proteins	Genome paper MpPPR_19: Mapoly0023s0082.1	Mapoly0023s0082.1; Mp2g11150.1				Public
+MpPPR_20	Pentatricopeptide repeat protein PPR_20		Pentatricopeptide repeat proteins	Genome paper MpPPR_20: Mapoly0026s0011.1	Mapoly0026s0011.1; Mp2g13600.1				Public
+MpPPR_21	Pentatricopeptide repeat protein PPR_21		Pentatricopeptide repeat proteins	Genome paper MpPPR_21: Mapoly0026s0069.1	Mapoly0026s0069.1; Mp2g13030.1				Public
+MpPPR_22	Pentatricopeptide repeat protein PPR_22		Pentatricopeptide repeat proteins	Genome paper MpPPR_22: Mapoly0029s0090.1	Mapoly0029s0090.1; Mp1g01570.1				Public
+MpPPR_23	Pentatricopeptide repeat protein PPR_23		Pentatricopeptide repeat proteins	Genome paper MpPPR_23: Mapoly0031s0063.1	Mapoly0031s0063.1; Mp2g04070.1				Public
+MpPPR_24	Pentatricopeptide repeat protein PPR_24		Pentatricopeptide repeat proteins	Genome paper MpPPR_24: Mapoly0031s0117.1	Mapoly0031s0117.1; Mp2g04620.1				Public
+MpPPR_25	Pentatricopeptide repeat protein PPR_25		Pentatricopeptide repeat proteins	Genome paper MpPPR_25: Mapoly0033s0149.1	Mapoly0033s0149.1; Mp1g15120.1				Public
+MpPPR_26	Pentatricopeptide repeat protein PPR_26		Pentatricopeptide repeat proteins	Genome paper MpPPR_26: Mapoly0036s0017.1	Mapoly0036s0017.1; Mp1g07710.1				Public
+MpPPR_27	Pentatricopeptide repeat protein PPR_27		Pentatricopeptide repeat proteins	Genome paper MpPPR_27: Mapoly0038s0061.1	Mapoly0038s0061.1; Mp6g18510.1				Public
+MpPPR_28	Pentatricopeptide repeat protein PPR_28		Pentatricopeptide repeat proteins	Genome paper MpPPR_28: Mapoly0039s0078.1	Mapoly0039s0078.1; Mp3g17160.1				Public
+MpPPR_29	Pentatricopeptide repeat protein PPR_29		Pentatricopeptide repeat proteins	Genome paper MpPPR_29: Mapoly0039s0079.1	Mapoly0039s0079.1; Mp3g17150.1				Public
+MpPPR_30	Pentatricopeptide repeat protein PPR_30		Pentatricopeptide repeat proteins	Genome paper MpPPR_30: Mapoly0041s0109.1	Mapoly0041s0109.1; Mp4g18280.1				Public
+MpPPR_31	Pentatricopeptide repeat protein PPR_31		Pentatricopeptide repeat proteins	Genome paper MpPPR_31: Mapoly0043s0079.1	Mapoly0043s0079.1; Mp1g06870.1				Public
+MpPPR_32	Pentatricopeptide repeat protein PPR_32		Pentatricopeptide repeat proteins	Genome paper MpPPR_32: Mapoly0043s0117.1	Mapoly0043s0117.1; Mp1g07240.1				Public
+MpPPR_33	Pentatricopeptide repeat protein PPR_33		Pentatricopeptide repeat proteins	Genome paper MpPPR_33: Mapoly0044s0135.1	Mapoly0044s0135.1; Mp4g03380.1				Public
+MpPPR_34	Pentatricopeptide repeat protein PPR_34		Pentatricopeptide repeat proteins	Genome paper MpPPR_34: Mapoly0047s0077.1	Mapoly0047s0077.1; Mp6g14230.1				Public
+MpPPR_35	Pentatricopeptide repeat protein PPR_35		Pentatricopeptide repeat proteins	Genome paper MpPPR_35: Mapoly0047s0104.1	Mapoly0047s0104.1; Mp6g14500.1				Public
+MpPPR_36	Pentatricopeptide repeat protein PPR_36		Pentatricopeptide repeat proteins	Genome paper MpPPR_36: Mapoly0048s0090.1	Mapoly0048s0090.1; Mp5g09810.1				Public
+MpPPR_37	Pentatricopeptide repeat protein PPR_37		Pentatricopeptide repeat proteins	Genome paper MpPPR_37: Mapoly0053s0063.1	Mapoly0053s0063.1; Mp6g07490.1				Public
+MpPPR_38	Pentatricopeptide repeat protein PPR_38		Pentatricopeptide repeat proteins	Genome paper MpPPR_38: Mapoly0059s0080.1	Mapoly0059s0080.1; Mp6g12660.1				Public
+MpPPR_39	Pentatricopeptide repeat protein PPR_39		Pentatricopeptide repeat proteins	Genome paper MpPPR_39: Mapoly0061s0076.1	Mapoly0061s0076.1; Mp1g24450.1				Public
+MpPPR_40	Pentatricopeptide repeat protein PPR_40		Pentatricopeptide repeat proteins	Genome paper MpPPR_40: Mapoly0062s0069.1	Mapoly0062s0069.1; Mp7g04570.1				Public
+MpPPR_41	Pentatricopeptide repeat protein PPR_41		Pentatricopeptide repeat proteins	Genome paper MpPPR_41: Mapoly0063s0054.1	Mapoly0063s0054.1; Mp8g08650.1				Public
+MpPPR_42	Pentatricopeptide repeat protein PPR_42		Pentatricopeptide repeat proteins	Genome paper MpPPR_42: Mapoly0066s0020.1	Mapoly0066s0020.1; Mp4g01230.1				Public
+MpPPR_43	Pentatricopeptide repeat protein PPR_43		Pentatricopeptide repeat proteins	Genome paper MpPPR_43: Mapoly0068s0065.1	Mapoly0068s0065.1; Mp7g09120.1				Public
+MpPPR_44	Pentatricopeptide repeat protein PPR_44		Pentatricopeptide repeat proteins	Genome paper MpPPR_44: Mapoly0068s0098.1	Mapoly0068s0098.1; Mp7g09450.1				Public
+MpPPR_45	Pentatricopeptide repeat protein PPR_45		Pentatricopeptide repeat proteins	Genome paper MpPPR_45: Mapoly0071s0071.1	Mapoly0071s0071.1; Mp5g15380.1				Public
+MpPPR_46	Pentatricopeptide repeat protein PPR_46		Pentatricopeptide repeat proteins	Genome paper MpPPR_46: Mapoly0071s0072.1	Mapoly0071s0072.1; Mp5g15370.1				Public
+MpPPR_47	Pentatricopeptide repeat protein PPR_47		Pentatricopeptide repeat proteins	Genome paper MpPPR_47: Mapoly0072s0009.1	Mapoly0072s0009.1; Mp2g23220.1				Public
+MpPPR_48	Pentatricopeptide repeat protein PPR_48		Pentatricopeptide repeat proteins	Genome paper MpPPR_48: Mapoly0078s0043.1	Mapoly0078s0043.1; Mp5g00440.1				Public
+MpPPR_49	Pentatricopeptide repeat protein PPR_49		Pentatricopeptide repeat proteins	Genome paper MpPPR_49: Mapoly0079s0007.1	Mapoly0079s0007.1; Mp8g16070.1				Public
+MpPPR_50	Pentatricopeptide repeat protein PPR_50		Pentatricopeptide repeat proteins	Genome paper MpPPR_50: Mapoly0090s0080.1	Mapoly0090s0080.1; Mp4g21410.1				Public
+MpPPR_51	Pentatricopeptide repeat protein PPR_51		Pentatricopeptide repeat proteins	Genome paper MpPPR_51: Mapoly0096s0019.1	Mapoly0096s0019.1; Mp1g09820.1				Public
+MpPPR_52	Pentatricopeptide repeat protein PPR_52		Pentatricopeptide repeat proteins	Genome paper MpPPR_52: Mapoly0114s0040.1	Mapoly0114s0040.1; Mp4g06140.1				Public
+MpPPR_53	Pentatricopeptide repeat protein PPR_53		Pentatricopeptide repeat proteins	Genome paper MpPPR_53: Mapoly0116s0031.1	Mapoly0116s0031.1; Mp4g20290.1				Public
+MpPPR_54	Pentatricopeptide repeat protein PPR_54		Pentatricopeptide repeat proteins	Genome paper MpPPR_54: Mapoly0117s0021.1	Mapoly0117s0021.1; Mp5g16850.1				Public
+MpPPR_55	Pentatricopeptide repeat protein PPR_55		Pentatricopeptide repeat proteins	Genome paper MpPPR_55: Mapoly0122s0044.1	Mapoly0122s0044.1; Mp2g16190.1				Public
+MpPPR_56	Pentatricopeptide repeat protein PPR_56		Pentatricopeptide repeat proteins	Genome paper MpPPR_56: Mapoly0127s0011.1	Mapoly0127s0011.1; Mp5g07730.1				Public
+MpPPR_57	Pentatricopeptide repeat protein PPR_57		Pentatricopeptide repeat proteins	Genome paper MpPPR_57: Mapoly0145s0003.1	Mapoly0145s0003.1; Mp6g17830.1				Public
+MpPPR_58	Pentatricopeptide repeat protein PPR_58		Pentatricopeptide repeat proteins	Genome paper MpPPR_58: Mapoly0147s0011.1	Mapoly0147s0011.1; Mp5g02180.1				Public
+MpPPR_59	Pentatricopeptide repeat protein PPR_59		Pentatricopeptide repeat proteins	Genome paper MpPPR_59: Mapoly0166s0014.1	Mapoly0166s0014.1; Mp5g22200.1				Public
+MpPPR_60	Pentatricopeptide repeat protein PPR_60		Pentatricopeptide repeat proteins	Genome paper MpPPR_60: Mapoly0064s0021.1	Mapoly0064s0021.1; Mp8g01790.1				Public
+MpPPR_61	Pentatricopeptide repeat protein PPR_61		Pentatricopeptide repeat proteins	Genome paper MpPPR_61: Mapoly0043s0002.1	Mapoly0043s0002.1; Mp1g06100.1				Public
+MpPPR_62	Pentatricopeptide repeat protein PPR_62		Pentatricopeptide repeat proteins	Genome paper MpPPR_62: Mapoly0036s0055.1	Mapoly0036s0055.1; Mp1g08110.1				Public
+MpPPR_63	Pentatricopeptide repeat protein PPR_63		Pentatricopeptide repeat proteins	Genome paper MpPPR_63: Mapoly0061s0009.1	Mapoly0061s0009.1; Mp1g25160.1				Public
+MpPPR_64	Pentatricopeptide repeat protein PPR_64		Pentatricopeptide repeat proteins	Genome paper MpPPR_64: Mapoly0031s0123.1	Mapoly0031s0123.1; Mp2g04680.1				Public
+MpPPR_65	Pentatricopeptide repeat protein PPR_65		Pentatricopeptide repeat proteins	Genome paper MpPPR_65: Mapoly0003s0152.1	Mapoly0003s0152.1; Mp7g11380.1				Public
+MpPPR_66	Pentatricopeptide repeat protein PPR_66		Pentatricopeptide repeat proteins	Genome paper MpPPR_66: Mapoly0035s0104.1	Mapoly0035s0104.1; Mp6g03240.1				Public
+MpPPR_67	Pentatricopeptide repeat protein PPR_67		Pentatricopeptide repeat proteins	Genome paper MpPPR_67: Mapoly0036s0086.1	Mapoly0036s0086.1; Mp1g08430.1				Public
+MpPPR_68	Pentatricopeptide repeat protein PPR_68		Pentatricopeptide repeat proteins	Genome paper MpPPR_68: Mapoly0036s0094.1	Mapoly0036s0094.1; Mp1g08510.1				Public
+MpPPR_69	Pentatricopeptide repeat protein PPR_69		Pentatricopeptide repeat proteins	Genome paper MpPPR_69: Mapoly0039s0098.1	Mapoly0039s0098.1; Mp3g16970.1				Public
+MpPPR_70	Pentatricopeptide repeat protein PPR_70		Pentatricopeptide repeat proteins	Genome paper MpPPR_70: Mapoly0050s0075.1	Mapoly0050s0075.1; Mp3g12830.1				Public
+MpPPR_71	Pentatricopeptide repeat protein PPR_71		Pentatricopeptide repeat proteins	Genome paper MpPPR_71: Mapoly0089s0054.1	Mapoly0089s0054.1; Mp3g21620.1				Public
+MpPPR_72	Pentatricopeptide repeat protein PPR_72		Pentatricopeptide repeat proteins	Genome paper MpPPR_72: Mapoly0114s0020.1	Mapoly0114s0020.1; Mp4g06330.1				Public
+MpPPR_73	Pentatricopeptide repeat protein PPR_73		Pentatricopeptide repeat proteins	Genome paper MpPPR_73: Mapoly0154s0039.1	Mapoly0154s0039.1; Mp8g16250.1				Public
+MpPPR_74	Pentatricopeptide repeat protein PPR_74		Pentatricopeptide repeat proteins	Genome paper MpPPR_74: Mapoly0114s0038.1	Mapoly0114s0038.1; Mp4g06160.1				Public
+MpPRM	PROTAMINE-LIKE		protamine-like protein		Mapoly0004s0232; Mp3g14390	Higo et al., Plant Cell Physiol. 57:325-338 (2016).	26858289	10.1093/pcp/pcw005	Published
+MpPYL1	MpPYL1		PYR1-like abscisic acid receptor		Mapoly0030s0080.1; Mp8g17460.1				Public
+MpPYL2	MpPYL2		PYR1-like abscisic acid receptor		Mapoly0313s0001.1; Mp2g18190.1				Public
+MpPYL3	MpPYL3		PYR1-like abscisic acid receptor		Mapoly0508s0001.1				Public
+MpPYL4	MpPYL4		PYR1-like abscisic acid receptor		Mapoly0030s0140.1; Mp8g18070.1				Public
+MpPYL5	MpPYL5		PYR1-like abscisic acid receptor		Mapoly0145s0004.1; Mp6g17820.1				Public
+MpR2R3-MYB1	MpR2R3-MYB1		transcription factor, MYB		Mapoly0001s0061.1; Mp1g17210.1				Public
+MpR2R3-MYB10	MpR2R3-MYB10		transcription factor, MYB		Mapoly0034s0034.1; Mp6g04830.1				Public
+MpR2R3-MYB11	MpR2R3-MYB11		transcription factor, MYB		Mapoly0040s0004.1; Mp2g22110.1				Public
+MpR2R3-MYB12	MpR2R3-MYB12		transcription factor, MYB		Mapoly0056s0127.1; Mp6g16170.1				Public
+MpR2R3-MYB13	MpR2R3-MYB13		transcription factor, MYB		Mapoly0072s0075.1; Mp2g22560.1				Public
+MpR2R3-MYB14	MpR2R3-MYB14		transcription factor, MYB		Mapoly0073s0038.1; Mp5g19050.1				Public
+MpR2R3-MYB15	MpR2R3-MYB15		transcription factor, MYB		Mapoly0085s0092.1; Mp3g09350.1				Public
+MpR2R3-MYB16	MpR2R3-MYB16		transcription factor, MYB		Mapoly0092s0005.1; Mp5g13030.1				Public
+MpR2R3-MYB17	MpR2R3-MYB17		transcription factor, MYB		Mapoly0096s0058.1; Mp1g09420.1				Public
+MpR2R3-MYB18	MpR2R3-MYB18		transcription factor, MYB		Mapoly0123s0012.1; Mp7g16300.1				Public
+MpR2R3-MYB19	MpR2R3-MYB19		transcription factor, MYB		Mapoly0318s0001.1; Mp5g13060.1				Public
+MpR2R3-MYB2	MpR2R3-MYB2		transcription factor, MYB		Mapoly0006s0226.1; Mp3g07510.1				Public
+MpR2R3-MYB20	MpR2R3-MYB20		transcription factor, MYB		Mapoly0874s0001.1; Mp4g21790.1				Public
+MpR2R3-MYB3	MpR2R3-MYB3		transcription factor, MYB		Mapoly0007s0265.1; Mp3g02770.1				Public
+MpR2R3-MYB4	MpR2R3-MYB4		transcription factor, MYB		Mapoly0007s0271.1; Mp3g02830.1				Public
+MpR2R3-MYB5	MpR2R3-MYB5		transcription factor, MYB		Mapoly0008s0029.1; Mp8g11870.1				Public
+MpR2R3-MYB6	MpR2R3-MYB6		transcription factor, MYB		Mapoly0019s0071.1; Mp1g13010.1				Public
+MpR2R3-MYB8	MpR2R3-MYB8		transcription factor, MYB		Mapoly0024s0094.1; Mp3g23170.1				Public
+MpR2R3-MYB9	MpR2R3-MYB9		transcription factor, MYB		Mapoly0032s0153.1; Mp5g14610.1				Public
+MpRAB11AY	Rat brain 11a		RAB GTPase	genome paper: MapolyY_A0041.1, Mapoly0018s0008.1	MapolyY_A0041.1; MpVg00760.1				Public
+MpRAB11AX	Rat brain 11a		RAB GTPase	genome paper: MapolyY_A0041.1, Mapoly0018s0008.1	Mapoly0018s0008.1				Public
+MpRAB11B	Rat brain 11b		RAB GTPase	genome paper: Mapoly0050s0009.1	Mapoly0050s0009.1; Mp3g12050.1				Public
+MpRAB11C	Rat brain 11c		RAB GTPase	genome paper: Mapoly0007s0069.1	Mapoly0007s0069.1; Mp3g00730.1				Public
+MpRAB18	Rat brain 18		RAB GTPase	genome paper: Mapoly0167s0019.1	Mapoly0167s0019.1; Mp6g05360.1				Public
+MpRAB1A	Rat brain 1A		RAB GTPase	genome paper: Mapoly0072s0030.1	Mapoly0072s0030.1; Mp2g23010.1				Public
+MpRAB1B	Rat brain 1B		RAB GTPase	genome paper: Mapoly0007s0067.1	Mapoly0007s0067.1; Mp3g00710.1				Public
+MpRAB21	Rat brain 21		RAB GTPase	genome paper: Mapoly0001s0443.1	Mapoly0001s0443.1; Mp1g21080.1				Public
+MpRAB23	Rat brain 23		RAB GTPase	genome paper: Mapoly0020s0116.1	Mapoly0020s0116.1; Mp4g23530.1				Public
+MpRAB2A	Rat brain 2a		RAB GTPase	genome paper: Mapoly0170s0032.1	Mapoly0170s0032.1; Mp6g16450.1				Public
+MpRAB2B	Rat brain 2B		RAB GTPase	genome paper: Mapoly0100s0038.1	Mapoly0100s0038.1; Mp3g25250.1				Public
+MpRAB5	Rat brain 5		RAB GTPase	genome paper: Mapoly0036s0134.1	Mapoly0036s0134.1; Mp1g08940.1				Public
+MpRAB6	Rat brain 6		RAB GTPase	genome paper: Mapoly0141s0004.1	Mapoly0141s0004.1; Mp5g03960.1				Public
+MpRAB7	Rat brain 7		RAB GTPase	genome paper: Mapoly0946s0001.1	Mapoly0946s0001.1; Mp8g13820.1				Public
+MpRAB8A	Rat brain 8A		RAB GTPase	genome paper: Mapoly0116s0012.1	Mapoly0116s0012.1; Mp4g20100.1				Public
+MpRAB8B	Rat brain 8B		RAB GTPase	genome paper: Mapoly0057s0033.1	Mapoly0057s0033.1; Mp7g06380.1				Public
+MpRAB8C	Rat brain 8c		RAB GTPase	genome paper: Mapoly0015s0029.1	Mapoly0015s0029.1; Mp2g07430.1				Public
+MpRALF1	RAPID ALKALINIZATION FACTOR 1		cysteine-rich peptide RALF1	Genome paper: Mapoly0076s0067.1	Mapoly0076s0067.1; Mp7g07270.1				Public
+MpRALF2	RAPID ALKALINIZATION FACTOR2		cysteine-rich peptide RALF2	Genome paper: Mapoly0040s0047.1	Mapoly0040s0047.1; Mp2g21670.1				Public
+MpRALF3	RAPID ALKALINIZATION FACTOR3		cysteine-rich peptide RALF3	Genome paper: Mapoly0002s0166.1	Mapoly0002s0166.1; Mp1g27120.1				Public
+MpRBCS	Ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit		Ortholog of Arabidopsis RBCS genes	Citrine fused with the amino terminal sequence of MpRBCS is transferred to chloroplasts. Some paralogous genes are encoded in the genome.	Mapoly0132s0032; Mp4g09890	Kanazawa et al., Plant Cell Physiol. 54, 1736-1748 (2013). PMID: 23975891	PMID: 23975891		Published
+MpRKD	RKD		RWP-RK domain (RKD)-containing transcription factor	MpRKD, a single RWP-RK factor closely related to angiosperm RKDs, is preferentially expressed in developing eggs and sperm precursors in M. polymorpha. MpRKD is an essential regulator of germ cell differentiation. Mapoly0022s0128	Mapoly0022s0128; Mp3g04030	Koi et al. Cur. Biol. 26, 1775-1781 (2016); Rövekamp et al., Curr. Biol. 26, 1782-1789 (2016)			Published
+MpRLK26	receptor-like kinase26		Universal stress protein family receptor-like kinase			Sasaki et al., Gene 401 (1-2), 135-144 (2007).PMID: 17698300	PMID: 17698300		Published
+MpRR-MYB1	MpRR-MYB1		transcription factor, MYB		Mapoly0001s0480.1; Mp1g21450.1				Public
+MpRR-MYB2	MpRR-MYB2		transcription factor, MYB		Mapoly0026s0070.1; Mp2g13020.1				Public
+MpRR-MYB3	MpRR-MYB3		transcription factor, MYB		Mapoly0042s0072.1; Mp2g14450.1				Public
+MpRR-MYB4	MpRR-MYB4		transcription factor, MYB		Mapoly0114s0007.1; Mp4g06490.1				Public
+MpRR-MYB5	MpRR-MYB5		transcription factor, MYB		Mapoly0143s0011.1; Mp5g11830.1				Public
+MpRR-MYB6	MpRR-MYB6		transcription factor, MYB		Mapoly0158s0003.1; Mp2g09320.1				Public
+MpRRA	Type-A response regulator		cytokinin response regulator, type-A	Described as RR-A in Flores-Sandoval et al., Plant Cell Physiol. 57, 281-290 (2016)	Mapoly0022s0150.1; Mp3g03810.1	Flores-Sandoval et al., Plant Cell Physiol. 57, 281-290 (2016)	PMID: 25971256	10.1093/pcp/pcv068	Published
+MpRRB	Type-B response regulator		cytokinin response regulator, type-B; transcription factor, GARP	Described as RR-B in Flores-Sandoval et al., Plant Cell Physiol. 57, 281-290 (2016)	Mapoly0101s0006.1; Mp4g20600.1	Flores-Sandoval et al., Plant Cell Physiol. 57, 281-290 (2016)	PMID: 25971256	doi:10.1093/pcp/pcv068	Published
+MpRSL1	ROOTHAIR DEFECTIVE SIX-LIKE1	MpBHLH14	ROOTHAIR DEFECTIVE SIX-LIKE1	RSL) class I basic helix-loop-helix transcription factor positively regulates the development of the unicellular and multicellular structures that develop from individual cells that expand out of the epidermal plane of the liverwort Marchantia polymorpha; mutants that lack MpRSL1 function do not develop rhizoids, slime papillae, mucilage papillae, or gemmae.	Mp3g17930; Mapoly0039s0003	Proust et al. Cur. Biol. 26(1):93-99 (2016)	26725198	:10.1016/j.cub.2015.11.042	Published
+MpRSL2	ROOTHAIR DEFECTIVE SIX-LIKE2		ROOTHAIR DEFECTIVE SIX-LIKE2			Proust et al., Cur. Biol. in press.  doi:10.1016/j.cub.2015.11.042		doi:10.1016/j.cub.2015.11.042	Published
+MpRUP	repressor of UV-B photomorphogenesis		UV-B signaling protein						Public
+MpRWP1	RWP-RK or RWP-RK1		RWP-RK domain containing protein	Mapoly0049s0118	Mapoly0049s0118; Mp3g19160	Koi et al. Cur. Biol. 26, 1775-1781 (2016); Rövekamp et al., Curr. Biol. 26, 1782-1789 (2016)			Published
+MpS6K	p70 RIBOSOMAL S6K KINASE		AGC kinase S6K						Public
+MpSABATH	SABATH methyltransferase		methyltransferase						Public
+MpSAR1	Secretion-associated RAS-related protein 1		SAR/ARF GTPase	genome paper: Mapoly0082s0086.1	Mapoly0082s0086.1; Mp2g15910.1				Public
+MpSAUR1	SMALL AUXIN UPREGULATED 1		Auxin responsive protein	Genome paper: MpSAUR1 Mapoly0035s0025	Mapoly0035s0025; Mp6g02400				Public
+MpSAUR2	SMALL AUXIN UPREGULATED 2		Auxin responsive protein	Genome paper: MpSAUR2 Mapoly0016s0123	Mapoly0016s0123; Mp6g10840				Public
+MpSAUR3	SMALL AUXIN UPREGULATED 3		Auxin responsive protein	Genome paper: MpSAUR3 Mapoly0060s0079	Mapoly0060s0079; Mp6g08420				Public
+MpSAUR4	SMALL AUXIN UPREGULATED 4		Auxin responsive protein	Genome paper: MpSAUR4 Mapoly0047s0021	Mapoly0047s0021; Mp6g13700				Public
+MpSAUR5	SMALL AUXIN UPREGULATED 5		Auxin responsive protein	Genome paper: MpSAUR5 Mapoly0034s0008	Mapoly0034s0008; Mp6g05100				Public
+MpSAUR6	SMALL AUXIN UPREGULATED 6		Auxin responsive protein	Genome paper: MpSAUR6 Mapoly0148s0036	Mapoly0148s0036; Mp4g16840				Public
+MpSAUR7	SMALL AUXIN UPREGULATED 7		Auxin responsive protein	Genome paper: MpSAUR7 Mapoly0034s0006	Mapoly0034s0006; Mp6g05120				Public
+MpSAUR8	SMALL AUXIN UPREGULATED 8		Auxin responsive protein	Genome paper: MpSAUR8 Mapoly0002s0080	Mapoly0002s0080; Mp1g27980				Public
+MpSAUR9	SMALL AUXIN UPREGULATED 9		Auxin responsive protein	Genome paper: MpSAUR9 Mapoly0002s0081	Mapoly0002s0081; Mp1g27970				Public
+MpSAUR10	SMALL AUXIN UPREGULATED 10		Auxin responsive protein	Genome paper: MpSAUR10 Mapoly0002s0082	Mapoly0002s0082; Mp1g27960				Public
+MpSAUR11	SMALL AUXIN UPREGULATED 11		Auxin responsive protein	Genome paper: MpSAUR11 Mapoly0002s0083	Mapoly0002s0083; Mp1g27950				Public
+MpSAUR12	SMALL AUXIN UPREGULATED 12		Auxin responsive protein	Genome paper: MpSAUR12 Mapoly0002s0084	Mapoly0002s0084; Mp1g27940				Public
+MpSAUR13	SMALL AUXIN UPREGULATED 13		Auxin responsive protein	Genome paper: MpSAUR13 Mapoly0002s0085	Mapoly0002s0085; Mp1g27930				Public
+MpSAUR14	SMALL AUXIN UPREGULATED 14		Auxin responsive protein	Genome paper: MpSAUR14 Mapoly0002s0086	Mapoly0002s0086; Mp1g27920				Public
+MpSAWADEE	SAWADEE		Homeodomain protein	Genome paper Mapoly0006s0154	Mapoly0006s0154; Mp3g06860				Public
+MpSEC1A	SECretory 1A		SM (Sec1/Munc-18) family protein	SM protein potentially involved in docking and fusion of secretory vesicle					Public
+MpSEC1B	SECretory 1B		SM (Sec1/Munc-18) family protein	SM protein potentially involved in docking and fusion of secretory vesicle					Public
+MpSEC20	Secretion 20		Ortholog of Arabidopsis SEC20 gene	The transcript is detected in thalli, antheridiophores, archegoniophores, and sporelings. Citrine-tagged MpSEC20 driven by the cauliflower mosaic virus 35S promoter is localized to the endoplasmic reticulum.	Mapoly0019s0137; Mp1g13670	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpSEC22	Secretion 22		Ortholog of Arabidopsis SEC22 genes	The transcript is detected in thalli, antheridiophores, archegoniophores, and sporelings. Citrine-tagged MpSEC22 driven by the cauliflower mosaic virus 35S promoter is localized to the endoplasmic reticulum.	Mapoly0023s0071; Mp2g11050	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpSFT1	Suppressor of sed5 ts		Ortholog of Arabidopsis SFT1 genes	The transcript is detected in thalli, antheridiophores, archegoniophores, and sporelings. Citrine-tagged MpSFT1 driven by the cauliflower mosaic virus 35S promoter is localized to the Golgi apparatus.	Mapoly0006s0109; Mp3g06390	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpSGK	SERUM AND GLUCOCORTICOID-INDUCIBLE KINASE		AGC kinase SGK						Public
+MpSIG1	Plastid-encoded plastid RNA polymerase sigma factor 1		Ortholog of Arabidopsis SIG1 gene	The T-DNA inserted mutant (Mpsig1) shows no visible phenotypes, however, the transcript accumulation of petL, psaA, psbB, psbK, and psbE operons is downregulated in the mutant. Although MpSIG1 and MpSIG2 redundantly function, MpSIG1 overexpression drastically up-regulates the ndhF transcript level. Citrine fused with the amino terminal sequence of MpSIG1 is transferred to chloroplasts. MpSIG1 transcript is induced by light illumination.	Mapoly0009s0187; Mp7g15030	Ueda et al., Genome Biol. Evol. 5, 1836-1848 (2013). PMID: 24025801; Kanazawa et al., Plant Cell Physiol. 54, 1736-1748 (2013). PMID: 23975891	PMID: 24025801; PMID: 23975891		Published
+MpSIG2	Plastid-encoded plastid RNA polymerase sigma factor 2		Ortholog of Arabidopsis SIG2 gene	MpSIG2 overexpression has an effect similar to that of MpSIG1 overexpression on the transcript levels of chloroplast genes. Citrine fused with the amino terminal sequence of MpSIG2 is transferred to chloroplasts. MpSIG2 transcript is induced by dark shift and decreased by light illumination.	Mapoly0214s0004; Mp4g13380	Ueda et al., Genome Biol. Evol. 5, 1836-1848 (2013). PMID: 24025801; Kanazawa et al., Plant Cell Physiol. 54, 1736-1748 (2013). PMID: 23975891	PMID: 24025801; PMID: 23975891		Published
+MpSIG5	Plastid-encoded plastid RNA polymerase sigma factor 5		Ortholog of Arabidopsis SIG5 gene	Citrine fused with the amino terminal sequence of MpSIG5 is transferred to chloroplasts. MpSIG5 transcript is decreased by dark shift, and transiently induced by light illumination, especially blue-light irradiation. Various environmental stresses such as high light, low temperature, high osmolarity, high saline, and ROS, transiently induce MpSIG5 transcript. SIG5 genes are conserved among embryophyte and a part of charophytes including Klebsormidium flaccidum.	Mapoly0007s0213; Mp3g02240	Ueda et al., Genome Biol. Evol. 5, 1836-1848 (2013). PMID: 24025801; Kanazawa et al., Plant Cell Physiol. 54, 1736-1748 (2013). PMID: 23975891	PMID: 24025801; PMID: 23975891		Published
+MpSIGX	Plastid-encoded plastid RNA polymerase sigma factor X		Similar gene of Arabidopsis plastid RNA polymerase sigma factor genes	Citrine fused with the amino terminal sequence of MpSIGX is transferred to chloroplasts. MpSIGX transcript is induced by light illumination. The gene has low similarity compared with other SIG genes of embryophyte, suggesting that MpSIGX might specifically function in the liverwort.	Mapoly0007s0071; Mp3g00750	Kanazawa et al., Plant Cell Physiol. 54, 1736-1748 (2013). PMID: 23975891	PMID: 23975891		Published
+MpSLY1	Suppressor of Loss of Ypt1		SM (Sec1/Munc-18) family protein	SM protein potentially involved in ER/Golgi vesicle trafficking					Public
+MpSNAP	Soluble N-ethylmaleimide-sensitive factor adaptor protein		Ortholog of Arabidopsis SNAP genes	The transcript is detected in thalli, antheridiophores, archegoniophores, and sporelings. Citrine-tagged MpSNAP driven by the cauliflower mosaic virus 35S promoter is localized to the cytosol.	Mapoly0199s0021; Mp7g06700	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpSNRK2A	MpSnRK2A		SNF1-related protein kinase2		Mapoly0061s0075.1; Mp1g24460.1				Public
+MpSNRK2B	MpSnRK2B		SNF1-related protein kinase2		Mapoly0011s0096.1; Mp4g11110.1				Public
+MpSPA1	suppressor of phyA-105 1		A signaling protein of multiple light signaling						Public
+MpSPL1	SQUAMOSA PROMOTER BINDING-LIKE1		SQUAMOSA PROMOTER BINDING-LIKE, transcription factor						Public
+MpSPL2	SQUAMOSA PROMOTER BINDING-LIKE2		SQUAMOSA PROMOTER BINDING-LIKE, transcription factor		Mapoly0014s0223; Mp1g10030	Tsuzuki et al. Curr. Biol. 29(19):3307-3314 (2019).	31543452	10.1016/j.cub.2019.07.084	Published
+MpSPL3	MpSPL3		transcription factor, SPL						Public
+MpSPL4	MpSPL4		transcription factor, SPL						Public
+MpSUT2	SUCROSE TRANSPORTER 2		sucrose transporter	Proton-coupled sucrose symporter	Mapoly0037s0109.1; Mp3g10870.1				Public
+MpSUT4	SUCROSE TRANSPORTER 4		sucrose transporter	proton-coupled sucrose symporter	Mapoly0009s0099.1; Mp7g14140.1				Public
+MpSYP12A	Syntaxin of plant 12A		Common ortholog of both Arabidopsis SYP11 and SYP12 genes	The transcript is detected in thalli, antheridiophores, archegoniophores, and sporelings. Monomeric-Citrine-tagged MpSYP12A under the regulation of its own regulatory elements is localized to the plasma membrane.	Mapoly0163s0015; Mp6g00050	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpSYP12B	Syntaxin of plant 12B		Common ortholog of both Arabidopsis SYP11 and SYP12 genes	The transcript is detected in thalli, antheridiophores, and archegoniophores. Monomeric-Citrine-tagged MpSYP12B under the regulation of its own regulatory elements is expressed in oil body cells and localized to the envelopes of oil bodies and the plasma membrane.	Mapoly0101s0013; Mp4g20670	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpSYP13A	Syntaxin of plant 13A		Ortholog of Arabidopsis SYP13 genes	The transcript is detected in thalli, antheridiophores, archegoniophores, and sporelings. Monomeric-Citrine-tagged MpSYP13A under the regulation of its own regulatory elements is localized to the plasma membrane and the envelopes of oil bodies.	Mapoly0009s0005; Mp7g13190	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpSYP13B	Syntaxin of plant 13B		Ortholog of Arabidopsis SYP13 genes	The transcript is detected in thalli, antheridiophores, archegoniophores, and sporelings. Monomeric-Citrine-tagged MpSYP13B under the regulation of its own regulatory elements is localized to the plasma membrane.	Mapoly0055s0091; Mp2g19600	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpSYP2	Syntaxin of plant 2		Ortholog of Arabidopsis SYP2 genes	The transcript is detected in thalli, antheridiophores, archegoniophores, and sporelings. Monomeric-Citrine-tagged MpSYP2 under the regulation of its own regulatory elements is localized to the vacuolar membrane.	Mapoly0187s0013; Mp8g15260	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpSYP3	Syntaxin of plant 3		Ortholog of Arabidopsis SYP3 genes	The transcript is detected in thalli, antheridiophores, archegoniophores, and sporelings. Citrine-tagged MpSYP3 driven by the cauliflower mosaic virus 35S promoter is localized to the Golgi apparatus.	Mapoly0036s0047; Mp1g08030	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpSYP4	Syntaxin of plant 4		Ortholog of Arabidopsis SYP4 genes	The transcript is detected in thalli, antheridiophores, archegoniophores, and sporelings. Citrine-tagged MpSYP4 driven by the cauliflower mosaic virus 35S promoter is localized to the trans-Golgi network.	Mapoly0042s0041; Mp2g14140	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpSYP5	Syntaxin of plant 5		Ortholog of Arabidopsis SYP5 genes	The transcript is detected in thalli, antheridiophores, archegoniophores, and sporelings. Citrine-tagged MpSYP5 driven by the cauliflower mosaic virus 35S promoter is localized to the vacuolar membrane.	Mapoly0004s0228; Mp3g14430	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpSYP6A	Syntaxin of plant 6A		Ortholog of Arabidopsis SYP61 gene	The transcript is detected in thalli, antheridiophores, archegoniophores, and sporelings. Citrine-tagged MpSYP6A driven by the cauliflower mosaic virus 35S promoter is localized to the trans-Golgi network and the plasma membrane.	Mapoly0140s0004; Mp3g18380	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpSYP6B	Syntaxin of plant 6B		Ortholog of Arabidopsis SYP61 gene	The transcript is detected in antheridiophores. Citrine-tagged MpSYP6B driven by the cauliflower mosaic virus 35S promoter is localized to the trans-Golgi network in thallus cells.	Mapoly0079s0013; Mp8g16010	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpSYP7A	Syntaxin of plant 7A		Ortholog of Arabidopsis SYP7 genes	The transcript is detected in thalli, antheridiophores, archegoniophores, and sporelings.	Mapoly0014s0021; Mp1g12070	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpSYP7B.1	Syntaxin of plant 7B		Ortholog of Arabidopsis SYP7 genes	Two splicing variants are detected from this locus. The transcript is detected in antheridiophores. Citrine-tagged MpSYP7B.1 (LC018472) driven by the cauliflower mosaic virus 35S promoter is localized to the endoplasmic reticulum.	Mapoly0001s0062.1; Mp1g17220.1	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpSYP7B.2	Syntaxin of plant 7B		Ortholog of Arabidopsis SYP7 genes	Two splicing variants are detected from this locus. The transcript is detected in antheridiophores. Citrine-tagged MpSYP7B.1 (LC018472) driven by the cauliflower mosaic virus 35S promoter is localized to the endoplasmic reticulum.	Mapoly0001s0062.2; Mp1g17220.2	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpSYP8	Syntaxin of plant 8		Ortholog of Arabidopsis SYP81 gene	The transcript is detected in thalli, antheridiophores, archegoniophores, and sporelings. Citrine-tagged MpSYP8 driven by the cauliflower mosaic virus 35S promoter is localized to punctate domains on the endoplasmic reticulum.	Mapoly0024s0083; Mp3g23060	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpTAA	TRYPTOPHAN AMINOTRANSFERASE OF ARABIDOPSIS		Aminotransferase	Genome paper Mapoly0032s0124	Mapoly0032s0124; Mp5g14320				Public
+MpTCP1	Class I (TCP-P) TCP gene1		bHLH transcription factor	Genome paper TCP1: Mapoly0068s0102.1	Mapoly0068s0102.1; Mp7g09490.1	in prep.			Public
+MpTCP2	Class II (TCP-C) TCP gene2		bHLH transcription factor	Genome paper TCP2: Mapoly0001s0298.1	Mapoly0001s0298.1; Mp1g19590.1	in prep.			Public
+MpTDR	TDIF RECEPTOR		leucine rich repeat receptor kinase	Genome paper Mapoly0096s0005 MpTDR	Mapoly0096s0005; Mp1g09960				Public
+MpTEMPL	TEMPLATE FOR REGISTRATION		PROTEIN NAME	This is Template for Symbol.		YOURNAME et. al., JOURNAL-NAME YEAR VOL:123-30. PMID/DOI/PMC: 12345	PMC: 1235		Published
+MpTIR1	TANSPORT INHIBITOR RESPONSE1		Auxin receptor in a TIR1/AFB family	MpTIR1 showed similarity to TIR1/AFB of Arabidopsis.	Mapoly0035s0062; Mp6g02750	Kato et al. PLoS Genet. 11, e1005084 (2015).; Flores-Sandval et al, PLoS Genet. 11, e1005207 (2015).	26020919; 26020649	10.1371/journal.pgen.1005084; 10.1371/journal.pgen.1005207	Published
+MpTOMOSYN11	Tomo of syntaxin 11		Ortholog of Arabidopsis TOMOSYN1 genes	The transcript is detected in thalli, antheridiophores, archegoniophores, and sporelings. Citrine-tagged MpTOMOSYN11 driven by the cauliflower mosaic virus 35S promoter is localized to the Golgi apparatus.	Mapoly0063s0003; Mp8g09160	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpTOMOSYN12	Tomo of syntaxin 12		Ortholog of Arabidopsis TOMOSYN1 genes	The transcript is detected in thalli, antheridiophores, and archegoniophores.	Mapoly0207s0009; Mp2g24710	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpTPL	TOPLESS		Protein binding	Genome paper Mapoly0051s0078	Mapoly0051s0078; Mp7g17410				Public
+MpTPS	terpene synthase		typical plant terpene synthase						Public
+MpTRIHELIX1	MpTrihelix1		transcription factor, Trihelix		Mapoly0001s0020.1; Mp1g16790.1				Public
+MpTRIHELIX10	MpTrihelix10		transcription factor, Trihelix		Mapoly0013s0135.1; Mp8g06550.1				Public
+MpTRIHELIX11	MpTrihelix11		transcription factor, Trihelix		Mapoly0015s0121.1; Mp2g08360.1				Public
+MpTRIHELIX12	MpTrihelix12		transcription factor, Trihelix		Mapoly0025s0112.1; Mp2g25660.1				Public
+MpTRIHELIX13	MpTrihelix13		transcription factor, Trihelix		Mapoly0032s0097.1; Mp5g14070.1				Public
+MpTRIHELIX14	MpTrihelix14		transcription factor, Trihelix		Mapoly0037s0099.1; Mp3g10970.1				Public
+MpTRIHELIX15	MpTrihelix15		transcription factor, Trihelix		Mapoly0037s0113.1; Mp3g10830.1				Public
+MpTRIHELIX16	MpTrihelix16		transcription factor, Trihelix		Mapoly0037s0146.1; Mp3g10500.1				Public
+MpTRIHELIX17	MpTrihelix17		transcription factor, Trihelix		Mapoly0041s0104.1; Mp4g18230.1				Public
+MpTRIHELIX18	MpTrihelix18		transcription factor, Trihelix		Mapoly0043s0010.1; Mp1g06180.1				Public
+MpTRIHELIX19	MpTrihelix19		transcription factor, Trihelix		Mapoly0051s0029.1; Mp7g16910.1				Public
+MpTRIHELIX2	MpTrihelix2		transcription factor, Trihelix		Mapoly0001s0312.1; Mp1g19730.1				Public
+MpTRIHELIX20	MpTrihelix20		transcription factor, Trihelix		Mapoly0056s0059.1; Mp6g15470.1				Public
+MpTRIHELIX21	MpTrihelix21		transcription factor, Trihelix		Mapoly0057s0042.1; Mp7g06290.1				Public
+MpTRIHELIX22	MpTrihelix22		transcription factor, Trihelix		Mapoly0065s0047.1; Mp1g23310.1				Public
+MpTRIHELIX23	MpTrihelix23		transcription factor, Trihelix		Mapoly0086s0081.1; Mp5g08810.1				Public
+MpTRIHELIX24	MpTrihelix24		transcription factor, Trihelix		Mapoly0107s0039.1; Mp1g29240.1				Public
+MpTRIHELIX25	MpTrihelix25		transcription factor, Trihelix		Mapoly0113s0052.1; Mp1g03040.1				Public
+MpTRIHELIX26	MpTrihelix26		transcription factor, Trihelix		Mapoly0113s0058.1; Mp1g03100.1				Public
+MpTRIHELIX27	MpTrihelix27		transcription factor, Trihelix		Mapoly0119s0048.1; Mp4g15240.1				Public
+MpTRIHELIX28	MpTrihelix28		transcription factor, Trihelix		Mapoly0122s0030.1; Mp2g16340.1				Public
+MpTRIHELIX29	MpTrihelix29		transcription factor, Trihelix		Mapoly0130s0023.1; Mp2g02150.1				Public
+MpTRIHELIX3	MpTrihelix3		transcription factor, Trihelix		Mapoly0002s0032.1; Mp1g28480.1				Public
+MpTRIHELIX30	MpTrihelix30		transcription factor, Trihelix		Mapoly0130s0035.1; Mp2g02280.1				Public
+MpTRIHELIX31	MpTrihelix31		transcription factor, Trihelix		Mapoly0132s0016.1; Mp4g09730.1				Public
+MpTRIHELIX32	MpTrihelix32		transcription factor, Trihelix		Mapoly0142s0034.1; Mp3g18590.1				Public
+MpTRIHELIX33	MpTrihelix33		transcription factor, Trihelix		Mapoly0155s0008.1; Mp8g08100.1				Public
+MpTRIHELIX34	MpTrihelix34		transcription factor, Trihelix		Mapoly0159s0017.1; Mp3g20870.1				Public
+MpTRIHELIX35	MpTrihelix35		transcription factor, Trihelix		Mapoly0159s0028.1; Mp3g20980.1				Public
+MpTRIHELIX36	MpTrihelix36		transcription factor, Trihelix		Mapoly0178s0023.1; Mp3g24320.1				Public
+MpTRIHELIX37	MpTrihelix37		transcription factor, Trihelix		Mapoly0184s0008.1; Mp6g17420.1				Public
+MpTRIHELIX38	MpTrihelix38		transcription factor, Trihelix		Mapoly0229s0008.1; Mp5g14820.1				Public
+MpTRIHELIX4	MpTrihelix4		transcription factor, Trihelix		Mapoly0002s0172.1; Mp1g27060.1				Public
+MpTRIHELIX5	MpTrihelix5		transcription factor, Trihelix		Mapoly0002s0204.1; Mp1g26740.1				Public
+MpTRIHELIX6	MpTrihelix6		transcription factor, Trihelix		Mapoly0003s0164.1; Mp7g11500.1				Public
+MpTRIHELIX7	MpTrihelix7		transcription factor, Trihelix		Mapoly0003s0288.1; Mp7g12800.1				Public
+MpTRIHELIX8	Trihelix8		transcription factor, Trihelix		Mapoly0011s0011.1; Mp4g10240.1				Public
+MpTRIHELIX9	MpTrihelix9		transcription factor, Trihelix		Mapoly0011s0057.1; Mp4g10710.1				Public
+MpTUA1	TUA1 (α-tubulin1)		α-tubulin						Public
+MpTUA2	TUA2 (α-tubulin2)		α-tubulin						Public
+MpTUA3	TUA3 (α-tubulin3)		α-tubulin						Public
+MpTUA4	TUA4 (α-tubulin4)		α-tubulin						Public
+MpTUA5	alpha-tubulin 5		alpha-tubulin		Mapoly0120s0003; Mp4g08430	Higo et al., Nat. Commun. 9(1):5283 (2018).	30538242	10.1038/s41467-018-07728-3	Published
+MpTUA6	TUA6 (α-tubulin6)		α-tubulin						Public
+MpTUA7	TUA7 (α-tubulin7)		α-tubulin						Public
+MpTUB1	TUB1 (ß-tubulin1)		ß-tubulin	To analyze microtubule function and cell division in Marchantia, the expression of four MpTUBs was compared and TUB1 was found to be most uniformly expressed in Marchantia polymorpha tissues. The live-cell microtubule marker MpTUB1-GFP was generated, which is expressed under the control of the MpEF1a promoter. The observed intimate cooperation of Marchantia polar organizers comprising TUB1 with preprophase bands provides insight into the evolution of division plane alignment control of land plants.		Buschmann et al., New Phytologist 209, 999-1013 (2016).			Published
+MpTUB2	TUB2 (ß-tubulin2)		ß-tubulin	To analyze microtubule function and cell division in Marchantia, the expression of four MpTUBs was compared and TUB1 was found to be most uniformly expressed in Marchantia polymorpha tissues. The live-cell microtubule marker MpTUB1-GFP was generated, which is expressed under the control of the MpEF1a promoter. The observed intimate cooperation of Marchantia polar organizers comprising TUB1 with preprophase bands provides insight into the evolution of division plane alignment control of land plants.		Buschmann et al., New Phytologist 209, 999-1013 (2016).			Published
+MpTUB3	TUB3 (ß-tubulin3)		ß-tubulin	To analyze microtubule function and cell division in Marchantia, the expression of four MpTUBs was compared and TUB1 was found to be most uniformly expressed in Marchantia polymorpha tissues. The live-cell microtubule marker MpTUB1-GFP was generated, which is expressed under the control of the MpEF1a promoter. The observed intimate cooperation of Marchantia polar organizers comprising TUB1 with preprophase bands provides insight into the evolution of division plane alignment control of land plants.		Buschmann et al., New Phytologist 209, 999-1013 (2016).			Published
+MpTUB5	TUB5 (ß-tubulin5)		ß-tubulin	A ß-tubulin gene missing in Buschmann et al., New Phytologist 209, 999-1013 (2016).					Public
+MpTUD	TUD (δ-tubulin)		δ-tubulin						Public
+MpTUE	TUE (ε-tubulin)		ε-tubulin						Public
+MpTUG	TUG (γ-tubulin)		γ-tubulin						Public
+MpTZF	MpTZF		transcription factor, TZF		Mapoly0104s0012.1; Mp6g00540.1				Public
+MpUGT	UDP-dependent glycosyltransferase		UDP-dependent glycosyltransferase						Public
+MpUSE1A	Unconventional SNARE in the ER 1A		Ortholog of Arabidopsis USE1 genes	The transcript is detected in thalli, antheridiophores, archegoniophores, and sporelings. Citrine-tagged MpUSE1A driven by the cauliflower mosaic virus 35S promoter is localized to the endoplasmic reticulum.	Mapoly0001s0213; Mp1g18750	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpUSE1B	Unconventional SNARE in the ER 1B		Ortholog of Arabidopsis USE1 genes	The transcript is detected in antheridiophores, archegoniophores, and sporelings. Citrine-tagged MpUSE1B driven by the cauliflower mosaic virus 35S promoter is localized to the nuclear envelope in the thallus cells.	Mapoly0058s0071; Mp5g20910	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpVAMP71	Vesicle-associated membrane protein 71		Ortholog of Arabidopsis VAMP7 genes	The transcript is detected in thalli, antheridiophores, archegoniophores, and sporelings. Citrine-tagged MpVAMP71 driven by the cauliflower mosaic virus 35S promoter is localized to punctate compartments and the vacuolar membrane.	Mapoly0064s0109; Mp8g00880	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpVAMP72A.1	Vesicle-associated membrane protein 72A		Ortholog of Arabidopsis VAMP72 genes	Two splicing variants are detected from this locus. The transcript is detected in thalli, antheridiophores, archegoniophores, and sporelings.	Mapoly0076s0053.2; Mapoly0076s0053.3; Mp7g07410.2; Mp7g07410.3	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpVAMP72A.2	Vesicle-associated membrane protein 72A		Ortholog of Arabidopsis VAMP72 genes	Two splicing variants are detected from this locus. The transcript is detected in thalli, antheridiophores, archegoniophores, and sporelings.	Mapoly0076s0053.1; Mp7g07410.1	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpVAMP72B	Vesicle-associated membrane protein 72B		Ortholog of Arabidopsis VAMP72 genes	The transcript is detected in thalli, antheridiophores, archegoniophores, and sporelings. Citrine-tagged MpVAMP72B driven by the cauliflower mosaic virus 35S promoter is localized to punctate compartments including the trans-Golgi network and the plasma membrane.	Mapoly0008s0223; Mp8g09990	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpVAMP72C	Vesicle-associated membrane protein 72C		Ortholog of Arabidopsis VAMP72 genes	The transcript is detected in thalli, antheridiophores, archegoniophores, and sporelings. The protein harbors the consensus sequence for N-myristoylation in addition to functional domains constituting conventional VAMP7 members.	Mapoly0008s0229; Mp8g09930	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpVAMP72D	Vesicle-associated membrane protein 72D		Ortholog of Arabidopsis VAMP72 genes	The transcript is not detected in thalli, antheridiophores, archegoniophores, and sporelings. The protein harbors the consensus sequence for N-myristoylation in addition to functional domains constituting conventional VAMP7 members.	JGI_3.1:scaffold_8:2414714..2416935	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpVAMP72E	Vesicle-associated membrane protein 72E		Ortholog of Arabidopsis VAMP72 genes	The transcript is detected in thalli, archegoniophores, and sporelings. The protein harbors the consensus sequence for N-myristoylation in addition to functional domains constituting conventional VAMP7 members.	Mapoly0008s0227	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpVICSPER1	VOLTAGE-DEPENDENT ION CHANNEL IN SPERM 1		putative voltage-dependent ion channel			In preparation			Public
+MpVICSPER2	VOLTAGE-DEPENDENT ION CHANNEL IN SPERM 2		putative voltage-dependent ion channel			In preparation			Public
+MpVPS33	Vacuolar Protein Sorting 33		SM (Sec1/Munc-18) family protein	A potential subunit of the HOPS and CORVET complexes					Public
+MpVPS45	Vacuolar Protein Sorting 45		SM (Sec1/Munc-18) family protein	SM protein for vacuolar protein sorting potentially involved in the regulation of SNARE protein at the trans-Golgi network					Public
+MpVTI1	Vps10 (Ten) interacting		Ortholog of Arabidopsis VTI1 genes	The transcript is detected in thalli, antheridiophores, archegoniophores, and sporelings. Citrine-tagged MpVTI1 driven by the cauliflower mosaic virus 35S promoter is localized to the trans-Golgi network.	Mapoly0019s0067; Mp1g12970	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268	PMID: 26019268		Published
+MpWOX	WUSCHEL-RELATED HOMEOBOX		Homeodomain protein	Genome paper Mapoly0014s0060	Mapoly0014s0060; Mp1g11660				Public
+MpWRKY1	MpWRKY1		transcription factor, WRKY		Mapoly0007s0001.1; Mp3g00010.1				Public
+MpWRKY10	MpWRKY10		transcription factor, WRKY		Mapoly0057s0012.1; Mp7g06550.1				Public
+MpWRKY11	MpWRKY11		transcription factor, WRKY		Mapoly0061s0030.1; Mp1g24950.1				Public
+MpWRKY12	MpWRKY12		transcription factor, WRKY		Mapoly0162s0001.1; Mp4g00200.1				Public
+MpWRKY13	MpWRKY13		transcription factor, WRKY		Mapoly0162s0003.1; Mp4g00180.1				Public
+MpWRKY14	MpWRKY14		transcription factor, WRKY		Mapoly0467s0001.1; Mp6g16800.1				Public
+MpWRKY2	MpWRKY2		transcription factor, WRKY		Mapoly0008s0159.1; Mp8g10640.1				Public
+MpWRKY3	MpWRKY3		transcription factor, WRKY		Mapoly0027s0069.1; Mp5g05560.1				Public
+MpWRKY4	MpWRKY4		transcription factor, WRKY		Mapoly0031s0170.1; Mp2g05160.1				Public
+MpWRKY5	MpWRKY5		transcription factor, WRKY		Mapoly0036s0129.1; Mp1g08890.1				Public
+MpWRKY6	MpWRKY6		transcription factor, WRKY		Mapoly0036s0136.1; Mp1g08960.1				Public
+MpWRKY7	MpWRKY7		transcription factor, WRKY		Mapoly0039s0030.1; Mp3g17660.1				Public
+MpWRKY8	MpWRKY8		transcription factor, WRKY		Mapoly0040s0116.1; Mp2g20960.1				Public
+MpWRKY9	MpWRKY9		transcription factor, WRKY		Mapoly0051s0057.1; Mp7g17200.1				Public
+MpYKT6	YKT6		Ortholog of Arabidopsis YKT6 genes	The transcript is detected in thalli, antheridiophores, archegoniophores, and sporelings.	Mapoly0127s0017; Mp5g07670	Kanazawa et al. Plant Cell Physiol. 2015 Epub ahead of print. PMID: 26019268			Published
+MpYUC1	YUCCA1		enzyme, auxin biosynthesis	Genome paper YUC1: Mapoly0127s0005/Mp5g07790, YUC2: Mapoly0063s0040/Mp8g08780, YUC3: Mapoly0048s0052/Mp5g10210, YUC4: Mapoly0010s0220/Mp5g22370, YUC5: Mapoly1575s0001/Mp5g22330	Mapoly0127s0005; Mp5g07790				Public
+MpYUC2	YUCCA2		enzyme, auxin biosynthesis	Genome paper YUC1: Mapoly0127s0005/Mp5g07790, YUC2: Mapoly0063s0040/Mp8g08780, YUC3: Mapoly0048s0052/Mp5g10210, YUC4: Mapoly0010s0220/Mp5g22370, YUC5: Mapoly1575s0001/Mp5g22330	Mapoly0063s0040; Mp8g08780				Public
+MpYUC3	YUCCA3		enzyme, auxin biosynthesis	Genome paper YUC1: Mapoly0127s0005/Mp5g07790, YUC2: Mapoly0063s0040/Mp8g08780, YUC3: Mapoly0048s0052/Mp5g10210, YUC4: Mapoly0010s0220/Mp5g22370, YUC5: Mapoly1575s0001/Mp5g22330	Mapoly0048s0052; Mp5g10210				Public
+MpYUC4	YUCCA4		enzyme, auxin biosynthesis	Genome paper YUC1: Mapoly0127s0005/Mp5g07790, YUC2: Mapoly0063s0040/Mp8g08780, YUC3: Mapoly0048s0052/Mp5g10210, YUC4: Mapoly0010s0220/Mp5g22370, YUC5: Mapoly1575s0001/Mp5g22330	Mapoly0010s0220; Mp5g22370				Public
+MpYUC5	YUCCA5		enzyme, auxin biosynthesis	Genome paper YUC1: Mapoly0127s0005/Mp5g07790, YUC2: Mapoly0063s0040/Mp8g08780, YUC3: Mapoly0048s0052/Mp5g10210, YUC4: Mapoly0010s0220/Mp5g22370, YUC5: Mapoly1575s0001/Mp5g22330	Mapoly1575s0001; Mp5g22330				Public
+MpFGMYB	FEMALE GAMETOPHYTE-SPECIFIC MYB	MpR2R3-MYB10	FEMALE GAMETOPHYTE-SPECIFIC MYB		Mapoly0001s0061; Mp1g17210	Hisanaga, Okahashi et. al, EMBO J. 38:e100240 (2019)	30609993	10.15252/embj.2018100240	Published
+MpMET	MpMET		DNA methyltransferase		Mapoly0038s0027; Mp6g18180	Bowman et al. Cell. 2017 ;171(2):287-304	28985561		Published
+MpCMTa	MpCMTa		CHROMOMETHYLASE, DNA (cytosine-5-)-methyltransferase		Mapoly0060s0056; Mp6g08650	Bowman et al. Cell. 2017 ;171(2):287-304	28985561		Published
+MpCMTb	MpCMTb		CHROMOMETHYLASE, DNA (cytosine-5-)-methyltransferase		Mapoly0091s0051; Mp6g21040	Bowman et al. Cell. 2017 ;171(2):287-304	28985561		Published
+MpDRMb	MpDRMb		DOMAINS REARRANGED METHYLASE, DNA (cytosine-5-)-methyltransferase		Mapoly0109s0015; Mp2g16740	Bowman et al. Cell. 2017 ;171(2):287-304	28985561		Published
+MpDRMa	MpDRMa		DOMAINS REARRANGED METHYLASE, DNA (cytosine-5-)-methyltransferase		Mapoly0103s0053; Mp1g00340	Bowman et al. Cell. 2017 ;171(2):287-304	28985561		Published
+MpROS1a	MpROS1a		DNA demethylase, DNA glycosylase/lyase		Mapoly0005s0045; Mp1g05620	Bowman et al. Cell. 2017 ;171(2):287-304	28985561		Published
+MpROS1x	MpROS1x		DNA demethylase, DNA glycosylase/lyase		Mapoly0018s0032	Bowman et al. Cell. 2017 ;171(2):287-304	28985561		Published
+MpHP	histidine-containing phosphotransfer protein		histidine-containing phosphotransfer protein		Mapoly0091s0072; Mp6g20830	Aki et al. Plant Cell Physiol. 60(8):1842-1854 (2019).	31135032	10.1093/pcp/pcz100.	Published
+MpCKX2	cytokinin oxidase 2		cytokinin oxidase		Mapoly0093s0012; Mp5g10910	Aki et al. Plant Cell Physiol. 60(8):1842-1854 (2019).	31135032	10.1093/pcp/pcz100.	Published
+MpMPK1	MITOGEN-ACTIVATED PROTEIN KINASE 1		Mitogen-activated protein kinase		Mapoly0015s0179; Mp2g08950	Bowman et al. 2017. Cell 171(2): 287-304.e215.			Published
+MpMPK2	MITOGEN-ACTIVATED PROTEIN KINASE 2		Mitogen-activated protein kinase		Mapoly0091s0015; Mp6g21400	Bowman et al. 2017. Cell 171(2): 287-304.e215.	28985561	10.1016/j.cell.2017.09.030	Published
+MpCCC1	Cation-Chloride-Cotransporter 1		Cation-Chloride-Cotransporter		Mapoly0050s0083.1; Mp3g12910.1	Plant Cation-Chloride Cotransporters (CCC): Evolutionary Origins and Functional Insights., Int. J. Mol. Sci. 2018, 19, 492	29415511; PMC5855714 	doi:10.3390/ijms19020492	Published
+MpCCC2	Cation-Chloride-Cotransporter 2		Cation-Chloride-Cotransporter		Mapoly0078s0036.1; Mp5g00360.1	Plant Cation-Chloride Cotransporters (CCC): Evolutionary Origins and Functional Insights., Int. J. Mol. Sci. 2018, 19, 492	29415511; PMC5855714 	doi:10.3390/ijms19020492	Published
+MpSLAC1	SLOW ANION CHANNEL-ASSOCIATED 1		S-type anion channel 		Mapoly0073s0030; Mp5g19130	Lind et al. Current Biology. 25(7):928-35 (2015).	25802151	10.1016/j.cub.2015.01.067	Published
+MpSLAC2	SLOW ANION CHANNEL-ASSOCIATED 2		S-type anion channel		Mapoly0073s0098; Mp5g18420	Sussmilch et. al., New Phytologist. Early View (2018).	30444541	10.1111/nph.15593	Published
+MpALMT1	ALUMINIUM-ACTIVATED MALATE TRANSPORTER 1		ALMT channel		Mapoly0100s0061; Mp3g25480	Sussmilch et. al., New Phytologist. Early View (2018).	30444541	10.1111/nph.15593	Published
+MpALMT2	ALUMINIUM-ACTIVATED MALATE TRANSPORTER 2		ALMT channel		Mapoly0007s0172; Mp3g01810	Sussmilch et. al., New Phytologist. Early View (2018).	30444541	10.1111/nph.15593	Published
+MpALMT3	ALUMINIUM-ACTIVATED MALATE TRANSPORTER 3		ALMT channel		Mapoly0057s0111; Mp7g05600	Sussmilch et. al., New Phytologist. Early View (2018).	30444541	10.1111/nph.15593	Published
+MpALMT4	ALUMINIUM-ACTIVATED MALATE TRANSPORTER 4		ALMT channel		Mapoly0070s0016; Mp4g14650	Sussmilch et. al., New Phytologist. Early View (2018).	30444541	10.1111/nph.15593	Published
+MpBK1	BIG K+ 1		BK channel		Mapoly0007s0089; Mp3g00930	Sussmilch et. al. New Phytologist. Early View (2018).	30444541	10.1111/nph.15593	Published
+MpBK2A	BIG K+ 2A		BK channel		Mapoly0003s0221; Mp7g12080	Sussmilch et. al., New Phytologist. Early View (2018).	30444541	10.1111/nph.15593	Published
+MpBK2B	BIG K+ 2B		BK channel		Mapoly0159s0025; Mp3g20950	Sussmilch et. al., New Phytologist. Early View (2018).	30444541	10.1111/nph.15593	Published
+MpAKT1	Active K+ Channel Transporter-1		Shaker potassium channel		Mapoly0010s0181; Mp5g22750	Sussmilch et. al., New Phytologist. Early View (2018).	30444541	10.1111/nph.15593	Published
+MpORK	OUTWARD-RECTIFYING K+ CHANNEL		Shaker potassium channel		Mapoly0031s0150; Mp2g04950	Sussmilch et. al., New Phytologist. Early View (2018).	30444541	10.1111/nph.15593	Published
+MpELO2	fatty acid elongase		delta5-fatty acid elongase			Kajikawa et al. FEBS Lett. 580,149-54 (2006).	16359669	10.1016/j.febslet.2005.11.065	Public
+MpPRAF	PHOTOSYNTHESIS-RELATED RAF		Raf-like protein kinase, subfamily B4		Mapoly0013s0150; Mp8g06400	Koide et al. (2020) Plant Cell Physiol. 61: 631-643	31851335		Published
+MpPGM1	PHOSPHOGLUCOMUTASE 1		Plastidic phosphoglucomutase		Mapoly0202s0014; Mp4g13750	Koide et al. (2020) Plant Cell Physiol. 61: 631-643.	31851335		Published
+MpCHK1	histidine kinase receptors 1		cytokinin receptor		Mapoly0075s0066; Mp2g03050	Aki et al. Plant Cell Physiol. 60(8):1842-1854 (2019).	31135032	10.1093/pcp/pcz100.	Published
+MpCHK2	histidine kinase receptors 2		cytokinin receptor		Mapoly0104s0036; Mp6g00310	Aki et al. Plant Cell Physiol. 60(8):1842-1854 (2019).	31135032	10.1093/pcp/pcz100.	Published
+MpROXY1	MpROXY1	MpR1; MpGRXC5	CC-type GRX	CC-type GRX; ROXY; TRX-fold family protein	Mapoly0048s0012; Mp5g10600	Gutsche et al., Plant Direct Dec 14;1(6):e00030 (2017)	PMC6508501	10.1002/pld3.30	Public
+MpTGA	MpTGA	MpbZIP8	TGA transcription factor		Mapoly0026s0039; Mp2g13330	Gutsche et al., Plant Direct Dec 14;1(6):e00030 (2017)	PMC6508501	10.1002/pld3.30	Public
+MpROXY2	MpROXY2	GRXC6; MpR2	glutaredoxin (GRX)	CC-type GRX; ROXY; TRX-fold family protein	Mapoly0059s0028; Mp6g13210	Gutsche et al., Plant Direct Dec 14;1(6):e00030 (2017)	PMC6508501	10.1002/pld3.30	Public
+MpLOS1	LATERAL ORGAN SUPPRESOR 1		ALOG protein		Mapoly0028s0118; Mp2g00330	Naramoto et al. PLoS Biol. 17(12): e3000560 (2019)	31815938; 32052256	10.1371/journal.pbio.3000560; 10.1007/s10265-020-01171-6	Published
+MpLOS2	LATERAL ORGAN SUPPRESOR 2		ALOG protein		Mapoly0221s0004.1; Mp2g24600	Naramoto et al. PLoS Biol. 17(12): e3000560 (2019)	31815938; 32052256	10.1371/journal.pbio.3000560; 10.1007/s10265-020-01171-6	Published
+MpFRH1	FEW RHIZOIDS 1		miRNA		Mapoly0043s0036; Mp1g06440	Honkanen et al. Elife 7:e38529 (2018).	30136925	10.7554/eLife.38529	Published
+MpLRL	Lotus japonicus ROOTHAIRLESS LIKE	MpBHLH43	LRL class bHLH		Mapoly0502s0001; Mpzg01410	Breuninger et al. Curr. Biol. 26:1622-1628 (2016).	27265398	10.1016/j.cub.2016.04.060	Published
+MpNEK	Never in mitosis A-related kinase		NEK		Mapoly0027s0176; Mp5g04500	Otani et al. Development 145(5):dev154617 (2018).	29440300	10.1242/dev.154617	Published
+MpWIP	WIP	MpIDDL6	WIP zinc-finger protein		Mapoly0096s0050; Mp1g09500	Jones and Dolan Development 144(8):1472-1476 (2017).	28174248	10.1242/dev.144287	Published
+MpKAR	KARAPPO		RopGEF		Mapoly0171s0028; Mp5g06550	Hiwatashi et al. Curr. Biol. 29(20):3525-3531 (2019).	31607537	10.1016/j.cub.2019.08.071	Published
+MpROP	ROP		ROP GTPase		Mapoly0051s0092; Mp7g17540	Hiwatashi et al. Curr. Biol. 29(20):3525-3531 (2019).	31607537	10.1016/j.cub.2019.08.071	Published
+MpMIR529C	MIR529c		miRNA		Mapoly0006s0020; Mp3g05470	Tsuzuki et al. Curr. Biol. 29(19):3307-3314 (2019).	31543452	10.1016/j.cub.2019.07.084	Published
+MpMIR160	MIR160		miRNA		Mapoly0002s0211; Mp1g26670	Flores-Sandoval et al. New Phytol. 218(4):1612-1630 (2018)	29574879	10.1111/nph.15090	Published
+MpSUK1	SUPPRESSOR OF KNOX1		long non-coding RNA		Mapoly0175s0019; Mp5g01590	Dierschke et al. bioRxiv (2020).		10.1101/2020.04.06.027821	Published
+MpE(z)1	ENHANCER OF ZESTE 1	MpCXC3	E(z)1		Mapoly0084s0051; Mp5g18040	Dierschke et al. bioRxiv (2020).		10.1101/2020.04.06.027821	Published
+MpE(z)2	ENHANCER OF ZESTE 2		E(z)2		Mapoly0084s0024; Mp5g17740	Dierschke et al. bioRxiv (2020).		10.1101/2020.04.06.027821	Published
+MpE(z)3	ENHANCER OF ZESTE 3		E(z)3		Mapoly0010s0166; Mp5g22900	Dierschke et al. bioRxiv (2020).		10.1101/2020.04.06.027821	Published
+MpUVR8	UV-B RESISTANCE LOCUS 8		UV-B photoreceptor		Mapoly0023s0125; Mp2g11590	Soriano et al. New Phytol. 217(1):151-162 (2018).; Kondou et al. Planta 249(5):1349-1364 (2019).	28892172; 30840176	10.1111/nph.14767; 10.1007/s00425-019-03090-w	Published
+MpTOC1	TIMING OF CAB EXPRESSION 1		TOC1		Mapoly0085s0081; Mp3g09460	Linde et al. New Phytol. 216(2):576-590 (2017)	28244104	10.1111/nph.14487	Published
+MpLUX	LUX ARRYHTHMO	MpGARP7	LUX		Mapoly0101s0068; Mp4g21220	Linde et al. New Phytol. 216(2):576-590 (2017).	28244104	10.1111/nph.14487	Published
+MpRVE	REVEILLE		RVE-like		Mapoly0042s0058; Mp2g14310	Linde et al. New Phytol. 216(2):576-590 (2017).	28244104	10.1111/nph.14487	Published
+MpPRR	PSEUDO-RESPONSE REGULATOR		PRR3/7		Mapoly0122s0007; Mp2g16560	Linde et al. New Phytol. 216(2):576-590 (2017).	28244104	10.1111/nph.14487	Published
+MpBPCU	MpBPCU	MpBPC1	transcription factor, BBR/BPC	U-linked	Mapoly0018s0011.1				Public
+MpBPCV	MpBPCV	MpBPC2	transcription factor, BBR/BPC	V-linked	MapolyY_B0017; MpVg00350				Public
+MpDNMT3a	DNA cytosine-5-methyltransferase 3a		C-5 cytosine-specific DNA methylase		Mp1g06290	Walker et al. bioRxiv 2021.02.12.428880		https://doi.org/10.1101/2021.02.12.428880	Published
+MpDNMT3b	DNA cytosine-5-methyltransferase 3b		C-5 cytosine-specific DNA methylase		Mp5g09290	Walker et al. bioRxiv 2021.02.12.428880		https://doi.org/10.1101/2021.02.12.428880	Published
+MpDN4MT1a	DNA N4 CYTOSINE METHYLTRANSFERASE 1a		N-4 cytosine-specific DNA methylase		Mp6g18330	Walker et al. bioRxiv 2021.02.12.428880		https://doi.org/10.1101/2021.02.12.428880	Published
+MpDN4MT1b	DNA N4 CYTOSINE METHYLTRANSFERASE 1b		N-4 cytosine-specific DNA methylase		Mp6g18340	Walker et al. bioRxiv 2021.02.12.428880		https://doi.org/10.1101/2021.02.12.428880	Published
+MpSOK	MpSOSEKI		MpSOSEKI protein	DIX domain-containing protein, orthologous to Arabidopsis SOSEKI proteins	Mp5g13130	van Dop et al. Cell 80(3):427-439 (2020).	32004461	10.1016/j.cell.2020.01.011	Published
